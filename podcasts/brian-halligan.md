@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=3UyitfSbY6c"
 video_id: "3UyitfSbY6c"
 description: "Brian Halligan co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia’s fastest-growing founders as their in-house CEO coach."
-summary: "Lenny talks with Brian Halligan about sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one, including career development, team leadership, and startup building."
+summary: "An examination of Why it’s never been easier to start a company, and never been harder to scale one, covering career development, team leadership, and startup building."
 tags: ["career", "leadership", "startups", "design", "engineering", "b2b"]
 word_count: 14630
 ---

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=twzLDx9iers"
 video_id: "twzLDx9iers"
 description: "Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community for leaders navigating rapid scale, growth, and change. She’s best known for her “Give away your Legos” framework and her collection of practical mental models for leading through hypergrowth."
-summary: "Lenny talks with Molly Graham about the high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale, including product design, startup building, and career development."
+summary: "A deep dive into Molly Graham’s frameworks for leading through chaos, change, and scale, covering product design, startup building, and career development."
 tags: ["design", "startups", "career", "growth", "leadership", "pricing"]
 word_count: 17885
 ---

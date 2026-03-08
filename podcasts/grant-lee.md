@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=3H0ngGU5pbM"
 video_id: "3H0ngGU5pbM"
 description: "Grant Lee is the co-founder of Gamma, the AI-powered presentation tool that’s one of the hottest and most interesting AI startups in the world right now. They’re valued at over $2 billion, and they hit $100 million ARR in just over two years, with a lean team of just around 50 people. Unlike many fast-growing AI startups, Gamma has been profitable for most of its history, has not raised significant funding, and they built a massive business in a category most investors dismissed. In fact, one in"
-summary: "Lenny talks with Grant Lee about “Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma, including strategic decision-making, product design, and growth systems."
+summary: "A deep dive into “Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma, covering strategic decision-making, product design, and growth systems."
 tags: ["strategy", "design", "growth", "startups", "ai", "go-to-market"]
 word_count: 24473
 ---

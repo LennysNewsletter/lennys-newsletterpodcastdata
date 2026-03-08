@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=8xLquwfx6p0"
 video_id: "8xLquwfx6p0"
 description: "Jason’s five-step framework: logo retention, pricing, NRR, marketing channels, target market"
-summary: "Lenny talks with Jason Cohen about 5 questions to ask when your product stops growing, including growth systems, strategic decision-making, and startup building."
+summary: "A practical framework for when your product stops growing, covering growth systems, strategic decision-making, and startup building."
 tags: ["growth", "strategy", "startups", "design", "newsletter", "pricing"]
 word_count: 21523
 ---

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=xeZDHGjG5zM"
 video_id: "xeZDHGjG5zM"
 description: "How to set up and use Codex in VS Code and terminal environments for both simple and complex coding tasks"
-summary: "Lenny talks with Alexander Embiricos about the power user’s guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more, including engineering tradeoffs, product design, and AI product work."
+summary: "A guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more, covering engineering tradeoffs, product design, and AI product work."
 tags: ["engineering", "design", "ai", "leadership", "startups", "organization"]
 word_count: 17382
 ---

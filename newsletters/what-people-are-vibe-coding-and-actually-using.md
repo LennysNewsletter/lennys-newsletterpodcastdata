@@ -3,7 +3,7 @@ title: "What people are vibe coding (and actually using)"
 subtitle: "50+ useful/fun/clever examples of what non-technical people are building—to inspire your own vibe-coding journey"
 date: "2025-07-08"
 type: "newsletter"
-summary: "An overview of what people are vibe coding (and actually using), with takeaways on Some high-level takeaways from the stories you shared:, Health, wellness, and style, and Carb counter, by [Morgan Brown](https://www.linkedin.com/in/morganb/) using Replit."
+summary: "A deep dive into 50+ useful/fun/clever examples of what non-technical people are building—to inspire your own vibe-coding journey, covering Some high-level takeaways from the stories you shared:, Health, wellness, and style, and Carb counter, by [Morgan Brown](https://www.linkedin.com/in/morganb/) using Replit."
 tags: ["design", "ai", "engineering", "newsletter", "b2c", "career"]
 word_count: 4489
 ---

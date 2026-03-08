@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=Ctjiatnd6Xk"
 video_id: "Ctjiatnd6Xk"
 description: "Dr. Fei-Fei Li is known as the “godmother of AI.” She’s been at the center of AI’s biggest breakthroughs for over two decades. She spearheaded ImageNet, the dataset that sparked the deep-learning revolution we’re living right now, served as Google Cloud’s Chief AI Scientist, directed Stanford’s Artificial Intelligence Lab, and co-founded Stanford’s Institute for Human-Centered AI. In this conversation, Fei-Fei shares the rarely told history of how we got here—including the wild fact that just ni"
-summary: "Lenny talks with Dr. Fei Fei Li about the Godmother of AI on jobs, robots & why world models are next, including AI product work, product design, and consumer products."
+summary: "A deep dive into jobs, robots & why world models are next, covering AI product work, product design, and consumer products."
 tags: ["ai", "design", "b2c", "strategy", "b2b", "career"]
 word_count: 11555
 ---

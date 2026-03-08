@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=87Pm0SGTtN8"
 video_id: "87Pm0SGTtN8"
 description: "Marc Andreessen is a founder, investor, and co-founder of Netscape, as well as co-founder of the venture capital firm Andreessen Horowitz (a16z). In this conversation, we dig into why we’re living through a unique and one of the most incredible times in history, and what comes next."
-summary: "Lenny talks with Marc Andreessen about marc Andreessen: The real AI boom hasn’t even started yet, including AI product work, product design, and startup building."
+summary: "A deep dive into The real AI boom hasn’t even started yet, covering AI product work, product design, and startup building."
 tags: ["ai", "design", "startups", "engineering", "growth", "leadership"]
 word_count: 22735
 ---

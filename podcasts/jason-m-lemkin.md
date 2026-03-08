@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=I-R1bc1rlFs"
 video_id: "I-R1bc1rlFs"
 description: "Jason Lemkin is the founder of SaaStr, the world’s largest community for software founders, and a veteran SaaS investor who has deployed over $200 million into B2B startups. After his last salesperson quit, Jason made a radical decision: replace his entire go-to-market team with AI agents. What started as an experiment has transformed into a new operating model, where 20 AI agents managed by just 1.2 humans now do the work previously handled by a team of 10 SDRs and AEs. In this conversation, Ja"
-summary: "Lenny talks with Jason M Lemkin about we replaced our sales team with 20 AI agents—here’s what happened, including B2B products, startup building, and team leadership."
+summary: "A deep dive into We replaced our sales team with 20 AI agents—here’s what happened, covering B2B products, startup building, and team leadership."
 tags: ["b2b", "startups", "leadership", "design", "career", "pricing"]
 word_count: 25973
 ---

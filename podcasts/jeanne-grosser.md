@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=RmnWHz8HD74"
 video_id: "RmnWHz8HD74"
 description: "Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves as COO and oversees marketing, sales, customer success, revenue operations, and field engineering. She transformed Stripe’s early sales organization from the ground up and advises founders on GTM strategy."
-summary: "Lenny talks with Jeanne Grosser about what world-class GTM looks like in 2026, including strategic decision-making, go-to-market execution, and B2B products."
+summary: "An overview of What world-class GTM looks like in 2026, covering strategic decision-making, go-to-market execution, and B2B products."
 tags: ["strategy", "go-to-market", "b2b", "ai", "design", "leadership"]
 word_count: 14929
 ---

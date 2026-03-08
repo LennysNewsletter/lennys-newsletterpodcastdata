@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=0XNkUdzxiZI"
 video_id: "0XNkUdzxiZI"
 description: "Lazar Jovanovic is a full-time professional vibe coder at Lovable. His job is to build both internal tools and customer-facing products purely using AI, while not having a coding background. In this conversation, he breaks down the tactics, workflows, and framework that let him ship production-quality products using only AI."
-summary: "Lenny talks with Lazar Jovanovic about the rise of the professional vibe coder (a new AI-era job), including product design, engineering tradeoffs, and AI product work."
+summary: "A deep dive into The rise of the professional vibe coder (a new AI-era job), covering product design, engineering tradeoffs, and AI product work."
 tags: ["design", "engineering", "ai", "leadership", "b2b", "b2c"]
 word_count: 18219
 ---

@@ -3,7 +3,7 @@ title: "A guide to AI prototyping for product managers"
 subtitle: "How to turn your idea into a working prototype in minutes"
 date: "2025-01-07"
 type: "newsletter"
-summary: "A guide to a guide to AI prototyping for product managers, with takeaways on Choosing your tooling, Chatbots (ChatGPT, Claude), and Cloud development environments (Replit, Bolt, v0, Lovable)."
+summary: "A practical guide to turning your idea into a working prototype in minutes, covering Choosing your tooling, Chatbots (ChatGPT, Claude), and Cloud development environments (Replit, Bolt, v0, Lovable)."
 tags: ["design", "ai", "engineering", "leadership", "newsletter", "product-management"]
 word_count: 4277
 ---

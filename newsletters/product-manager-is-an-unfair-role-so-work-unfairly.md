@@ -3,7 +3,7 @@ title: "Product manager is an unfair role. So work unfairly."
 subtitle: "How to thrive in “the great flattening” by redefining work norms"
 date: "2024-11-12"
 type: "newsletter"
-summary: "An exploration of product manager is an unfair role. So work unfairly., with takeaways on 3. Hide, ignore, and automate Slack, 4. Cultivate a team that operates without you, and 7. PM your own brain’s freshness."
+summary: "A practical guide to thrive in “the great flattening” by redefining work norms, covering 3. Hide, ignore, and automate Slack, 4. Cultivate a team that operates without you, and 7. PM your own brain’s freshness."
 tags: ["leadership", "design", "product-management", "newsletter", "organization", "ai"]
 word_count: 4165
 ---

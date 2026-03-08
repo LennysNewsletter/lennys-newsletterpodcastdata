@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=37fKFWdrMyA"
 video_id: "37fKFWdrMyA"
 description: "Jen Abel is GM of Enterprise at State Affairs and co-founded Jellyfish, a consultancy that helps founders learn zero-to-one enterprise sales. She’s one of the smartest people I’ve ever met on learning enterprise sales, and in this follow-up to our first chat two years ago (covering the zero to $1 million ARR founder-led sales phase), we focus on the skills founders need to learn to go from $1M to $10M ARR."
-summary: "Lenny talks with Jen Abel 2.0 about \"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR, including B2B products, strategic decision-making, and startup building."
+summary: "A deep dive into \"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR, covering B2B products, strategic decision-making, and startup building."
 tags: ["b2b", "strategy", "startups", "design", "ai", "engineering"]
 word_count: 15380
 ---

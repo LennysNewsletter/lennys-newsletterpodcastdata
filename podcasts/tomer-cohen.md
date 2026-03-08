@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=R-zCfLQD_84"
 video_id: "R-zCfLQD_84"
 description: "Tomer Cohen is the longtime chief product officer at LinkedIn, where he’s pioneering the Full Stack Builder program, a radical new approach to product development that fully embraces what AI makes possible. Under his leadership, LinkedIn has scrapped its traditional Associate Product Manager program and replaced it with an Associate Product Builder program that teaches coding, design, and PM skills together. He’s also introduced a formal “Full Stack Builder” title and career ladder, enabling any"
-summary: "Lenny talks with Tomer Cohen about why LinkedIn is turning PMs into AI-powered \"full stack builders”, including product design, team leadership, and AI product work."
+summary: "An examination of Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work."
 tags: ["design", "leadership", "ai", "go-to-market", "startups", "b2c"]
 word_count: 13085
 ---

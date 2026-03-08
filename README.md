@@ -25,9 +25,8 @@ It is meant to give you a clean, AI-friendly sample of the archive that you can 
 
 ## How to use it
 
-1. Clone this repo.
+1. Clone `github.com/lennysan/lennys-newsletterpodcastdata`.
 2. Read `index.json` first to filter by title, summary, tags, guest, or word count.
-3. Open only the markdown files you actually need.
 
 This keeps AI context usage low and makes the archive easier to navigate programmatically.
 

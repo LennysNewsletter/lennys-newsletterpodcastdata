@@ -1,12 +1,12 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-08T01:29:28.971143+00:00",
+  "generated_at": "2026-03-08T21:22:29.205576+00:00",
   "podcasts": [
     {
       "title": "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
       "date": "2026-02-15",
       "filename": "podcasts/brian-halligan.md",
-      "summary": "Lenny talks with Brian Halligan about sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one, including career development, team leadership, and startup building.",
+      "summary": "An examination of Why it’s never been easier to start a company, and never been harder to scale one, covering career development, team leadership, and startup building.",
       "tags": [
         "career",
         "leadership",
@@ -22,7 +22,7 @@
       "title": "The rise of the professional vibe coder (a new AI-era job) | Lazar Jovanovic (Professional Vibe Coder)",
       "date": "2026-02-08",
       "filename": "podcasts/lazar-jovanovic.md",
-      "summary": "Lenny talks with Lazar Jovanovic about the rise of the professional vibe coder (a new AI-era job), including product design, engineering tradeoffs, and AI product work.",
+      "summary": "A deep dive into The rise of the professional vibe coder (a new AI-era job), covering product design, engineering tradeoffs, and AI product work.",
       "tags": [
         "design",
         "engineering",
@@ -38,7 +38,7 @@
       "title": "A child psychologist’s guide to working with difficult adults | Dr. Becky Kennedy",
       "date": "2026-02-01",
       "filename": "podcasts/dr-becky-kennedy.md",
-      "summary": "Lenny talks with Dr. Becky Kennedy about a child psychologist’s guide to working with difficult adults, including product design, team leadership, and practical product lessons.",
+      "summary": "A guide to working with difficult adults, covering product design, team leadership, and practical product lessons.",
       "tags": [
         "design",
         "leadership",
@@ -53,7 +53,7 @@
       "title": "Marc Andreessen: The real AI boom hasn’t even started yet",
       "date": "2026-01-29",
       "filename": "podcasts/marc-andreessen.md",
-      "summary": "Lenny talks with Marc Andreessen about marc Andreessen: The real AI boom hasn’t even started yet, including AI product work, product design, and startup building.",
+      "summary": "A deep dive into The real AI boom hasn’t even started yet, covering AI product work, product design, and startup building.",
       "tags": [
         "ai",
         "design",
@@ -69,7 +69,7 @@
       "title": "5 questions to ask when your product stops growing | Jason Cohen (2x unicorn founder)",
       "date": "2026-01-25",
       "filename": "podcasts/jason-cohen.md",
-      "summary": "Lenny talks with Jason Cohen about 5 questions to ask when your product stops growing, including growth systems, strategic decision-making, and startup building.",
+      "summary": "A practical framework for when your product stops growing, covering growth systems, strategic decision-making, and startup building.",
       "tags": [
         "growth",
         "strategy",
@@ -85,7 +85,7 @@
       "title": "The non-technical PM’s guide to building with Cursor | Zevi Arnovitz (Meta)",
       "date": "2026-01-18",
       "filename": "podcasts/zevi-arnovitz.md",
-      "summary": "Lenny talks with Zevi Arnovitz about the non-technical PM’s guide to building with Cursor, including AI product work, engineering tradeoffs, and product design.",
+      "summary": "A guide to building with Cursor, covering AI product work, engineering tradeoffs, and product design.",
       "tags": [
         "ai",
         "engineering",
@@ -101,7 +101,7 @@
       "title": "How to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook | Sam Lessin",
       "date": "2026-01-15",
       "filename": "podcasts/sam-lessin.md",
-      "summary": "Lenny talks with Sam Lessin about how to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook, including startup building, product design, and operator lessons.",
+      "summary": "A practical guide to show up in any room with a low heart rate: Silicon Valley’s missing etiquette playbook, covering startup building, product design, and operator lessons.",
       "tags": [
         "startups",
         "design",
@@ -117,7 +117,7 @@
       "title": "The power user’s guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more | Alexander Embiricos",
       "date": "2026-01-12",
       "filename": "podcasts/alexander-embiricos.md",
-      "summary": "Lenny talks with Alexander Embiricos about the power user’s guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more, including engineering tradeoffs, product design, and AI product work.",
+      "summary": "A guide to Codex: parallelizing workflows, planning techniques, advanced context engineering tips, automating code reviews, and more, covering engineering tradeoffs, product design, and AI product work.",
       "tags": [
         "engineering",
         "design",
@@ -133,7 +133,7 @@
       "title": "The high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale",
       "date": "2026-01-04",
       "filename": "podcasts/molly-graham.md",
-      "summary": "Lenny talks with Molly Graham about the high-growth handbook: Molly Graham’s frameworks for leading through chaos, change, and scale, including product design, startup building, and career development.",
+      "summary": "A deep dive into Molly Graham’s frameworks for leading through chaos, change, and scale, covering product design, startup building, and career development.",
       "tags": [
         "design",
         "startups",
@@ -149,7 +149,7 @@
       "title": "We replaced our sales team with 20 AI agents—here’s what happened | Jason Lemkin (SaaStr)",
       "date": "2026-01-01",
       "filename": "podcasts/jason-m-lemkin.md",
-      "summary": "Lenny talks with Jason M Lemkin about we replaced our sales team with 20 AI agents—here’s what happened, including B2B products, startup building, and team leadership.",
+      "summary": "A deep dive into We replaced our sales team with 20 AI agents—here’s what happened, covering B2B products, startup building, and team leadership.",
       "tags": [
         "b2b",
         "startups",
@@ -165,7 +165,7 @@
       "title": "10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling)",
       "date": "2025-12-28",
       "filename": "podcasts/matt-macinnis.md",
-      "summary": "Lenny talks with Matt MacInnis about 10 contrarian leadership truths every leader needs to hear, including team leadership, product design, and startup building.",
+      "summary": "A deep dive into 10 contrarian leadership truths every leader needs to hear, covering team leadership, product design, and startup building.",
       "tags": [
         "leadership",
         "design",
@@ -181,7 +181,7 @@
       "title": "The 100-person AI lab that became Anthropic and Google's secret weapon | Edwin Chen (Surge AI)",
       "date": "2025-12-07",
       "filename": "podcasts/edwin-chen.md",
-      "summary": "Lenny talks with Edwin Chen about the 100-person AI lab that became Anthropic and Google's secret weapon, including product design, AI product work, and pricing decisions.",
+      "summary": "A deep dive into The 100-person AI lab that became Anthropic and Google's secret weapon, covering product design, AI product work, and pricing decisions.",
       "tags": [
         "design",
         "ai",
@@ -197,7 +197,7 @@
       "title": "Why LinkedIn is turning PMs into AI-powered \"full stack builders” | Tomer Cohen (LinkedIn CPO)",
       "date": "2025-12-04",
       "filename": "podcasts/tomer-cohen-20.md",
-      "summary": "Lenny talks with Tomer Cohen 2.0 about why LinkedIn is turning PMs into AI-powered \"full stack builders”, including product design, team leadership, and AI product work.",
+      "summary": "An examination of Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work.",
       "tags": [
         "design",
         "leadership",
@@ -213,7 +213,7 @@
       "title": "Why LinkedIn is turning PMs into AI-powered \"full stack builders” | Tomer Cohen (LinkedIn CPO)",
       "date": "2025-12-04",
       "filename": "podcasts/tomer-cohen.md",
-      "summary": "Lenny talks with Tomer Cohen about why LinkedIn is turning PMs into AI-powered \"full stack builders”, including product design, team leadership, and AI product work.",
+      "summary": "An examination of Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work.",
       "tags": [
         "design",
         "leadership",
@@ -229,7 +229,7 @@
       "title": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
       "date": "2025-11-30",
       "filename": "podcasts/jeanne-grosser.md",
-      "summary": "Lenny talks with Jeanne Grosser about what world-class GTM looks like in 2026, including strategic decision-making, go-to-market execution, and B2B products.",
+      "summary": "An overview of What world-class GTM looks like in 2026, covering strategic decision-making, go-to-market execution, and B2B products.",
       "tags": [
         "strategy",
         "go-to-market",
@@ -245,7 +245,7 @@
       "title": "A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett",
       "date": "2025-11-23",
       "filename": "podcasts/rachel-lockett.md",
-      "summary": "Lenny talks with Rachel Lockett about a guide to difficult conversations, building high-trust teams, and designing a life you love, including team leadership, product design, and consumer products.",
+      "summary": "A guide to difficult conversations, building high-trust teams, and designing a life you love, covering team leadership, product design, and consumer products.",
       "tags": [
         "leadership",
         "design",
@@ -261,7 +261,7 @@
       "title": "Slack founder: Mental models for building products people love ft. Stewart Butterfield",
       "date": "2025-11-20",
       "filename": "podcasts/stewart-butterfield.md",
-      "summary": "Lenny talks with Stewart Butterfield about slack founder: Mental models for building products people love ft. Stewart Butterfield, including product design, B2B products, and consumer products.",
+      "summary": "A deep dive into Mental models for building products people love ft. Stewart Butterfield, covering product design, B2B products, and consumer products.",
       "tags": [
         "design",
         "b2b",
@@ -277,7 +277,7 @@
       "title": "The Godmother of AI on jobs, robots & why world models are next | Dr. Fei-Fei Li",
       "date": "2025-11-16",
       "filename": "podcasts/dr-fei-fei-li.md",
-      "summary": "Lenny talks with Dr. Fei Fei Li about the Godmother of AI on jobs, robots & why world models are next, including AI product work, product design, and consumer products.",
+      "summary": "A deep dive into jobs, robots & why world models are next, covering AI product work, product design, and consumer products.",
       "tags": [
         "ai",
         "design",
@@ -293,7 +293,7 @@
       "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (CEO)",
       "date": "2025-11-13",
       "filename": "podcasts/grant-lee.md",
-      "summary": "Lenny talks with Grant Lee about “Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma, including strategic decision-making, product design, and growth systems.",
+      "summary": "A deep dive into “Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma, covering strategic decision-making, product design, and growth systems.",
       "tags": [
         "strategy",
         "design",
@@ -309,7 +309,7 @@
       "title": "\"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR | Jen Abel",
       "date": "2025-11-09",
       "filename": "podcasts/jen-abel-20.md",
-      "summary": "Lenny talks with Jen Abel 2.0 about \"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR, including B2B products, strategic decision-making, and startup building.",
+      "summary": "A deep dive into \"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR, covering B2B products, strategic decision-making, and startup building.",
       "tags": [
         "b2b",
         "strategy",
@@ -327,7 +327,7 @@
       "title": "How to build AI product sense",
       "date": "2026-02-03",
       "filename": "newsletters/how-to-build-ai-product-sense.md",
-      "summary": "A practical guide to building AI product sense, with takeaways on Step 1: Download Cursor, Step 2: Create a new project, and Step 3: Continue this post inside Cursor.",
+      "summary": "A deep dive into The secret is using Cursor for non-technical work (inside: 75 free days of Cursor Pro to try this out!), covering Step 1: Download Cursor, Step 2: Create a new project, and Step 3: Continue this post inside Cursor.",
       "tags": [
         "ai",
         "design",
@@ -342,7 +342,7 @@
       "title": "Everyone should be using Claude Code more",
       "date": "2025-10-14",
       "filename": "newsletters/everyone-should-be-using-claude-code-more.md",
-      "summary": "An exploration of everyone should be using Claude Code more, with takeaways on 1. Clearing space on my computer, 2. Improving the image quality of screenshots, and 3. Downloading YouTube videos.",
+      "summary": "A practical guide to get started, and 50 ways non-technical people are using Claude Code in their work and life, covering 1. Clearing space on my computer, 2. Improving the image quality of screenshots, and 3. Downloading YouTube videos.",
       "tags": [
         "ai",
         "engineering",
@@ -357,7 +357,7 @@
       "title": "Essential reading for product builders—part 1",
       "date": "2025-07-15",
       "filename": "newsletters/essential-reading-for-product-builders-part-1.md",
-      "summary": "An exploration of essential reading for product builders—part 1, with takeaways on 2. [On agency](https://www.henrikkarlsson.xyz/p/agency?publication_id=313411&post_id=167633827&isFreemail=true&r=13nam&triedRedirect=true), by Henrik Karlsson, 3. [On building good taste](https://www.youtube.com/watch?v=X2wLP0izeJE), by ",
+      "summary": "A deep dive into 7 timeless essays you likely haven’t read but should, covering 2. [On agency](https://www.henrikkarlsson.xyz/p/agency?publication_id=313411&post_id=167633827&isFreemail=true&r=13nam&triedRedirect=true), by Henrik Karlsson, 3. [On building good taste](https://www.youtube.com/watch?v=X2wLP0izeJE), by Ira",
       "tags": [
         "leadership",
         "design",
@@ -372,7 +372,7 @@
       "title": "What people are vibe coding (and actually using)",
       "date": "2025-07-08",
       "filename": "newsletters/what-people-are-vibe-coding-and-actually-using.md",
-      "summary": "An overview of what people are vibe coding (and actually using), with takeaways on Some high-level takeaways from the stories you shared:, Health, wellness, and style, and Carb counter, by [Morgan Brown](https://www.linkedin.com/in/morganb/) using Replit.",
+      "summary": "A deep dive into 50+ useful/fun/clever examples of what non-technical people are building—to inspire your own vibe-coding journey, covering Some high-level takeaways from the stories you shared:, Health, wellness, and style, and Carb counter, by [Morgan Brown](https://www.linkedin.com/in/morganb/) using Replit.",
       "tags": [
         "design",
         "ai",
@@ -387,7 +387,7 @@
       "title": "An AI glossary",
       "date": "2025-06-24",
       "filename": "newsletters/an-ai-glossary.md",
-      "summary": "An exploration of an AI glossary, with takeaways on LLM (large language model), Supervised learning, and Unsupervised learning.",
+      "summary": "A deep dive into The most common AI terms explained, simply, covering LLM (large language model), Supervised learning, and Unsupervised learning.",
       "tags": [
         "ai",
         "engineering",
@@ -402,7 +402,7 @@
       "title": "State of the product job market in 2025",
       "date": "2025-05-13",
       "filename": "newsletters/state-of-the-product-job-market-in-2025.md",
-      "summary": "An exploration of state of the product job market in 2025, with takeaways on 2. AI roles are exploding, 3. Layoffs are slowing, and 4. Capital investment is increasing.",
+      "summary": "A deep dive into There’s a lot to be optimistic about, covering 2. AI roles are exploding, 3. Layoffs are slowing, and 4. Capital investment is increasing.",
       "tags": [
         "product-management",
         "newsletter",
@@ -417,7 +417,7 @@
       "title": "Beyond vibe checks: A PM’s complete guide to evals",
       "date": "2025-04-08",
       "filename": "newsletters/beyond-vibe-checks-a-pms-complete-guide-to-evals.md",
-      "summary": "A guide to beyond vibe checks: A PM’s complete guide to evals, with takeaways on Why evals matter, What exactly are evals?, and Getting started.",
+      "summary": "A practical guide to master the emerging skill that can make or break an AI product, covering Why evals matter, What exactly are evals?, and Getting started.",
       "tags": [
         "ai",
         "design",
@@ -432,7 +432,7 @@
       "title": "A guide to AI prototyping for product managers",
       "date": "2025-01-07",
       "filename": "newsletters/a-guide-to-ai-prototyping-for-product-managers.md",
-      "summary": "A guide to a guide to AI prototyping for product managers, with takeaways on Choosing your tooling, Chatbots (ChatGPT, Claude), and Cloud development environments (Replit, Bolt, v0, Lovable).",
+      "summary": "A practical guide to turning your idea into a working prototype in minutes, covering Choosing your tooling, Chatbots (ChatGPT, Claude), and Cloud development environments (Replit, Bolt, v0, Lovable).",
       "tags": [
         "design",
         "ai",
@@ -447,7 +447,7 @@
       "title": "Product manager is an unfair role. So work unfairly.",
       "date": "2024-11-12",
       "filename": "newsletters/product-manager-is-an-unfair-role-so-work-unfairly.md",
-      "summary": "An exploration of product manager is an unfair role. So work unfairly., with takeaways on 3. Hide, ignore, and automate Slack, 4. Cultivate a team that operates without you, and 7. PM your own brain’s freshness.",
+      "summary": "A practical guide to thrive in “the great flattening” by redefining work norms, covering 3. Hide, ignore, and automate Slack, 4. Cultivate a team that operates without you, and 7. PM your own brain’s freshness.",
       "tags": [
         "leadership",
         "design",
@@ -462,7 +462,7 @@
       "title": "How Duolingo reignited user growth",
       "date": "2023-02-28",
       "filename": "newsletters/how-duolingo-reignited-user-growth.md",
-      "summary": "An exploration of how Duolingo reignited user growth, with takeaways on Phase 1: Increasing gamification, Phase 2: Referrals, and Time to regroup.",
+      "summary": "A deep dive into The story behind Duolingo's 350% growth acceleration, leaderboards, streaks, notifications, and innovative growth model, covering Phase 1: Increasing gamification, Phase 2: Referrals, and Time to regroup.",
       "tags": [
         "growth",
         "leadership",

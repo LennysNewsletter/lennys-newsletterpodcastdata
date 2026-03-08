@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=1GDVum5IarI"
 video_id: "1GDVum5IarI"
 description: "When to coach and when to just tell people what to do [ 09:00 ]"
-summary: "Lenny talks with Rachel Lockett about a guide to difficult conversations, building high-trust teams, and designing a life you love, including team leadership, product design, and consumer products."
+summary: "A guide to difficult conversations, building high-trust teams, and designing a life you love, covering team leadership, product design, and consumer products."
 tags: ["leadership", "design", "b2c", "engineering", "strategy", "career"]
 word_count: 19831
 ---

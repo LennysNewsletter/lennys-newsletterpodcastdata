@@ -3,7 +3,7 @@ title: "An AI glossary"
 subtitle: "The most common AI terms explained, simply"
 date: "2025-06-24"
 type: "newsletter"
-summary: "An exploration of an AI glossary, with takeaways on LLM (large language model), Supervised learning, and Unsupervised learning."
+summary: "A deep dive into The most common AI terms explained, simply, covering LLM (large language model), Supervised learning, and Unsupervised learning."
 tags: ["ai", "engineering", "design", "newsletter", "b2b", "b2c"]
 word_count: 3313
 ---

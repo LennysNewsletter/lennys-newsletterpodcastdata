@@ -3,7 +3,7 @@ title: "Essential reading for product builders—part 1"
 subtitle: "7 timeless essays you likely haven’t read but should"
 date: "2025-07-15"
 type: "newsletter"
-summary: "An exploration of essential reading for product builders—part 1, with takeaways on 2. [On agency](https://www.henrikkarlsson.xyz/p/agency?publication_id=313411&post_id=167633827&isFreemail=true&r=13nam&triedRedirect=true), by Henrik Karlsson, 3. [On building good taste](https://www.youtube.com/watch?v=X2wLP0izeJE), by"
+summary: "A deep dive into 7 timeless essays you likely haven’t read but should, covering 2. [On agency](https://www.henrikkarlsson.xyz/p/agency?publication_id=313411&post_id=167633827&isFreemail=true&r=13nam&triedRedirect=true), by Henrik Karlsson, 3. [On building good taste](https://www.youtube.com/watch?v=X2wLP0izeJE), by Ira"
 tags: ["leadership", "design", "strategy", "newsletter", "startups", "career"]
 word_count: 2841
 ---

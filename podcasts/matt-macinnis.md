@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=O_W76LR77Vw"
 video_id: "O_W76LR77Vw"
 description: "Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion."
-summary: "Lenny talks with Matt MacInnis about 10 contrarian leadership truths every leader needs to hear, including team leadership, product design, and startup building."
+summary: "A deep dive into 10 contrarian leadership truths every leader needs to hear, covering team leadership, product design, and startup building."
 tags: ["leadership", "design", "startups", "strategy", "career", "growth"]
 word_count: 18324
 ---

@@ -3,7 +3,7 @@ title: "Everyone should be using Claude Code more"
 subtitle: "How to get started, and 50 ways non-technical people are using Claude Code in their work and life"
 date: "2025-10-14"
 type: "newsletter"
-summary: "An exploration of everyone should be using Claude Code more, with takeaways on 1. Clearing space on my computer, 2. Improving the image quality of screenshots, and 3. Downloading YouTube videos."
+summary: "A practical guide to get started, and 50 ways non-technical people are using Claude Code in their work and life, covering 1. Clearing space on my computer, 2. Improving the image quality of screenshots, and 3. Downloading YouTube videos."
 tags: ["ai", "engineering", "design", "newsletter", "career", "leadership"]
 word_count: 3909
 ---
