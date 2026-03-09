@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-09T22:35:13.031217+00:00",
+  "generated_at": "2026-03-09T22:46:30.491502+00:00",
   "podcasts": [
     {
       "title": "Sequoia CEO coach: Why it’s never been easier to start a company, and never been harder to scale one | Brian Halligan (co-founder, HubSpot)",
@@ -141,6 +141,216 @@
       "filename": "podcasts/jen-abel-20.md",
       "word_count": 15380,
       "guest": "Jen Abel 2.0"
+    },
+    {
+      "title": "\"Sell the alpha, not the feature\": The enterprise sales playbook for $1M to $10M ARR | Jen Abel",
+      "date": "2025-11-09",
+      "filename": "podcasts/jen-abel.md",
+      "word_count": 14531,
+      "guest": "Jen Abel"
+    },
+    {
+      "title": "The woman behind Canva shares how she built a $42B company from nothing | Melanie Perkins",
+      "date": "2025-11-02",
+      "filename": "podcasts/melanie-perkins.md",
+      "word_count": 13679,
+      "guest": "Melanie Perkins"
+    },
+    {
+      "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
+      "date": "2025-10-26",
+      "filename": "podcasts/dhanji-r-prasanna.md",
+      "word_count": 14839,
+      "guest": "Dhanji R. Prasanna"
+    },
+    {
+      "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
+      "date": "2025-10-23",
+      "filename": "podcasts/chip-huyen.md",
+      "word_count": 15296,
+      "guest": "Chip Huyen"
+    },
+    {
+      "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+      "date": "2025-10-19",
+      "filename": "podcasts/nicole-forsgren-20.md",
+      "word_count": 12817,
+      "guest": "Nicole Forsgren 2.0"
+    },
+    {
+      "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
+      "date": "2025-10-19",
+      "filename": "podcasts/nicole-forsgren.md",
+      "word_count": 14088,
+      "guest": "Nicole Forsgren"
+    },
+    {
+      "title": "Inside Google's AI turnaround: The rise of AI Mode, strategy behind AI Overviews, and their vision for AI-powered search | Robby Stein (VP of Product, Google Search)",
+      "date": "2025-10-10",
+      "filename": "podcasts/robby-stein.md",
+      "word_count": 17522,
+      "guest": "Robby Stein"
+    },
+    {
+      "title": "First interview with Scale AI’s CEO: $14B Meta deal, what’s working in enterprise AI, and what frontier labs are building next | Jason Droege",
+      "date": "2025-10-09",
+      "filename": "podcasts/jason-droege.md",
+      "word_count": 16353,
+      "guest": "Jason Droege"
+    },
+    {
+      "title": "How to find hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
+      "date": "2025-10-05",
+      "filename": "podcasts/albert-cheng.md",
+      "word_count": 17085,
+      "guest": "Albert Cheng"
+    },
+    {
+      "title": "The secret to better AI prototypes: Why Tinder’s CPO starts with JSON, not design | Ravi Mehta (product advisor, previously EIR at Reforge)",
+      "date": "2025-09-29",
+      "filename": "podcasts/ravi-mehta.md",
+      "word_count": 16657,
+      "guest": "Ravi Mehta"
+    },
+    {
+      "title": "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course)",
+      "date": "2025-09-25",
+      "filename": "podcasts/hamel-husain--shreya-shankar.md",
+      "word_count": 19553,
+      "guest": "Hamel Husain & Shreya Shankar"
+    },
+    {
+      "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor)",
+      "date": "2025-09-18",
+      "filename": "podcasts/brendan-foody.md",
+      "word_count": 12086,
+      "guest": "Brendan Foody"
+    },
+    {
+      "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
+      "date": "2025-09-14",
+      "filename": "podcasts/ethan-smith.md",
+      "word_count": 14213,
+      "guest": "Ethan Smith"
+    },
+    {
+      "title": "$46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder)",
+      "date": "2025-09-11",
+      "filename": "podcasts/ben-horowitz.md",
+      "word_count": 15972,
+      "guest": "Ben Horowitz"
+    },
+    {
+      "title": "How Devin replaces your junior engineers with infinite AI interns that never sleep | Scott Wu (Cognition CEO)",
+      "date": "2025-09-08",
+      "filename": "podcasts/scott-wu.md",
+      "word_count": 19567,
+      "guest": "Scott Wu"
+    },
+    {
+      "title": "How we restructured Airtable’s entire org for AI | Howie Liu (co-founder and CEO)",
+      "date": "2025-08-31",
+      "filename": "podcasts/howie-liu.md",
+      "word_count": 17980,
+      "guest": "Howie Liu"
+    },
+    {
+      "title": "How 80,000 companies build with AI: products as organisms, the death of org charts, and why agents will outnumber employees by 2026 | Asha Sharma (CVP of AI Platform at Microsoft)",
+      "date": "2025-08-28",
+      "filename": "podcasts/asha-sharma.md",
+      "word_count": 10684,
+      "guest": "Asha Sharma"
+    },
+    {
+      "title": "Inside the expert network training every frontier AI model | Garrett Lord (Handshake CEO)",
+      "date": "2025-08-24",
+      "filename": "podcasts/garrett-lord.md",
+      "word_count": 12723,
+      "guest": "Garrett Lord"
+    },
+    {
+      "title": "How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)",
+      "date": "2025-08-21",
+      "filename": "podcasts/eoghan-mccabe.md",
+      "word_count": 13585,
+      "guest": "Eoghan McCabe"
+    },
+    {
+      "title": "The one question that saves product careers | Matt LeMay",
+      "date": "2025-08-14",
+      "filename": "podcasts/matt-lemay.md",
+      "word_count": 17480,
+      "guest": "Matt LeMay"
+    },
+    {
+      "title": "Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI)",
+      "date": "2025-08-09",
+      "filename": "podcasts/nick-turley.md",
+      "word_count": 19140,
+      "guest": "Nick Turley"
+    },
+    {
+      "title": "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)",
+      "date": "2025-08-03",
+      "filename": "podcasts/brian-chesky.md",
+      "word_count": 13702,
+      "guest": "Brian Chesky"
+    },
+    {
+      "title": "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)",
+      "date": "2025-08-03",
+      "filename": "podcasts/chip-conley.md",
+      "word_count": 13744,
+      "guest": "Chip Conley"
+    },
+    {
+      "title": "He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor on the future of careers, coding, agents, and more",
+      "date": "2025-07-31",
+      "filename": "podcasts/bret-taylor.md",
+      "word_count": 16513,
+      "guest": "Bret Taylor"
+    },
+    {
+      "title": "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam",
+      "date": "2025-07-27",
+      "filename": "podcasts/madhavan-ramanujam-20.md",
+      "word_count": 13694,
+      "guest": "Madhavan Ramanujam 2.0"
+    },
+    {
+      "title": "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam",
+      "date": "2025-07-27",
+      "filename": "podcasts/madhavan-ramanujam.md",
+      "word_count": 19317,
+      "guest": "Madhavan Ramanujam"
+    },
+    {
+      "title": "The AI-native startup: 5 products, 7-figure revenue, 100% AI-written code | Dan Shipper (co-founder/CEO of Every)",
+      "date": "2025-07-17",
+      "filename": "podcasts/dan-shipper.md",
+      "word_count": 19059,
+      "guest": "Dan Shipper"
+    },
+    {
+      "title": "I’ve run 75+ businesses. Here’s why you’re probably chasing the wrong idea. | Andrew Wilkinson (co‑founder of Tiny)",
+      "date": "2025-07-03",
+      "filename": "podcasts/andrew-wilkinson.md",
+      "word_count": 16595,
+      "guest": "Andrew Wilkinson"
+    },
+    {
+      "title": "Naming expert shares the process behind creating billion-dollar brand names like Azure, Vercel, Windsurf, Sonos, Blackberry, and Impossible Burger | David Placek (Lexicon Branding)",
+      "date": "2025-06-29",
+      "filename": "podcasts/david-placek.md",
+      "word_count": 13488,
+      "guest": "David Placek"
+    },
+    {
+      "title": "From ChatGPT to Instagram to Uber: The quiet architect behind the world’s most popular products | Peter Deng",
+      "date": "2025-06-22",
+      "filename": "podcasts/peter-deng.md",
+      "word_count": 22640,
+      "guest": "Peter Deng"
     }
   ],
   "newsletters": [
