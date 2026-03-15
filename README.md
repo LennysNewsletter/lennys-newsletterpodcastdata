@@ -1,6 +1,6 @@
 # Lenny's Data
 
-A comprehensive archive of [Lenny's Podcast](https://www.lennyspodcast.com) transcripts and [Lenny's Newsletter](https://www.lennysnewsletter.com) posts, organized for easy use with AI coding assistants and language models.
+A comprehensive archive of [Lenny's Podcast](https://www.lennyspodcast.com) transcripts and [Lenny's Newsletter](https://www.lennysnewsletter.com) posts, in AI-friendly markdown, to inspire you to build something with this unique dataset.
 
 This repo is the public starter pack with a limited number of transcripts and posts. To get the full archives, see below.
 
