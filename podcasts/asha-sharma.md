@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=J9UWaltU-7Q"
 video_id: "J9UWaltU-7Q"
 description: "Products as organisms, the death of org charts, and why agents will outnumber employees by 2026, covering AI product work, product design, and engineering tradeoffs."
-word_count: 10684
+word_count: 10939
 ---
 
 **Lenny Rachitsky** (00:00:00):

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=R-zCfLQD_84"
 video_id: "R-zCfLQD_84"
 description: "Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work."
-word_count: 13085
+word_count: 13149
 ---
 
 **Lenny Rachitsky** (00:00:00):

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=Auxs8ZsHRI4"
 video_id: "Auxs8ZsHRI4"
 description: "Working with difficult adults, covering product design, team leadership, and practical product lessons."
-word_count: 19452
+word_count: 19670
 ---
 
 **Lenny Rachitsky** (00:00:00):

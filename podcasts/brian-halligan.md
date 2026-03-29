@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=3UyitfSbY6c"
 video_id: "3UyitfSbY6c"
 description: "Brian Halligan co-founded HubSpot, ran it as CEO for about 15 years, and now coaches Sequoia’s fastest-growing founders as their in-house CEO coach."
-word_count: 14630
+word_count: 14680
 ---
 
 **Brian Halligan** (00:00:00):

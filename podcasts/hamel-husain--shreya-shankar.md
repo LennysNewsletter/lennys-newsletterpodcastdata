@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=BsWxPI9UM4c"
 video_id: "BsWxPI9UM4c"
 description: "Why AI evals are the hottest new skill for product builders, covering AI product work, product design, and measurement and analysis."
-word_count: 19553
+word_count: 19671
 ---
 
 **Lenny Rachitsky** (00:00:00):

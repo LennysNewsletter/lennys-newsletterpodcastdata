@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=0qdR-XwHJ9o"
 video_id: "0qdR-XwHJ9o"
 description: "Inside the expert network training every frontier AI model, covering AI product work, product design, and team leadership."
-word_count: 12723
+word_count: 12775
 ---
 
 **Garrett Lord** (00:00:00):

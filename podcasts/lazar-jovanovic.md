@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=0XNkUdzxiZI"
 video_id: "0XNkUdzxiZI"
 description: "Lazar Jovanovic is a full-time professional vibe coder at Lovable. His job is to build both internal tools and customer-facing products purely using AI, while not having a coding background."
-word_count: 18219
+word_count: 18493
 ---
 
 **Lazar Jovanovic** (00:00:00):

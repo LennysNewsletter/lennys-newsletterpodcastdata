@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=I-R1bc1rlFs"
 video_id: "I-R1bc1rlFs"
 description: "We replaced our sales team with 20 AI agents—here’s what happened, covering B2B products, startup building, and team leadership."
-word_count: 25973
+word_count: 26179
 ---
 
 **Jason Lemkin** (00:00:00):

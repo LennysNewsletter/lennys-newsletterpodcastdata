@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=JMeXWVw0r3E"
 video_id: "JMeXWVw0r3E"
 description: "Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies in the world."
-word_count: 14839
+word_count: 15018
 ---
 
 **Lenny Rachitsky** (00:00:00):

@@ -5,7 +5,7 @@ type: "podcast"
 guest: "Sherwin Wu V2"
 channel: "Lenny's Podcast"
 description: "If you talk to a lot of engineers, the thing that annoys them the most is after you've written your beautiful code, how do you get it into production, covering engineering tradeoffs, AI product work, and team leadership."
-word_count: 15667
+word_count: 15820
 ---
 
 **Sherwin Wu** (00:00:00):

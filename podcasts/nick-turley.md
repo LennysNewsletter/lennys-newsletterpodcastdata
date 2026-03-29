@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=ixY2PvQJ0To"
 video_id: "ixY2PvQJ0To"
 description: "The fastest-growing product in history, covering AI product work, product design, and go-to-market execution."
-word_count: 19140
+word_count: 19233
 ---
 
 **Lenny Rachitsky** (00:00:00):

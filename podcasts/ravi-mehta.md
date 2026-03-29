@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=_yQMGHHl49g"
 video_id: "_yQMGHHl49g"
 description: "Why Tinder’s CPO starts with JSON, not design, covering team leadership, startup building, and product design."
-word_count: 16657
+word_count: 16757
 ---
 
 **Ravi Mehta** (00:00:00):

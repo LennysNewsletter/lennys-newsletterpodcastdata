@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=0_opWSfmN8M"
 video_id: "0_opWSfmN8M"
 description: "How Intercom rose from the ashes by betting everything on AI, covering AI product work, pricing decisions, and product design."
-word_count: 13585
+word_count: 13654
 ---
 
 **Eoghan McCabe** (00:00:00):

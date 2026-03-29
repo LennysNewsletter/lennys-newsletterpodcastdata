@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=O_W76LR77Vw"
 video_id: "O_W76LR77Vw"
 description: "Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion."
-word_count: 18324
+word_count: 18479
 ---
 
 **Matt MacInnis** (00:00:00):

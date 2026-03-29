@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=87Pm0SGTtN8"
 video_id: "87Pm0SGTtN8"
 description: "Marc Andreessen is a founder, investor, and co-founder of Netscape, as well as co-founder of the venture capital firm Andreessen Horowitz (a16z). In this conversation, we dig into why we’re living through a unique and one of the most incredible times in history, and what comes next."
-word_count: 22735
+word_count: 23012
 ---
 
 **Marc Andreessen** (00:00:00):

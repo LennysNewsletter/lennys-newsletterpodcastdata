@@ -5,7 +5,7 @@ type: "podcast"
 guest: "Boris Cherny"
 channel: "Lenny's Podcast"
 description: "This is the world now.\" What's the next big shift to how software is written that either your team is already operating in or you think will head towards, covering engineering tradeoffs, product design, and AI product work."
-word_count: 19327
+word_count: 19629
 ---
 
 **Boris Cherny** (00:00:00):

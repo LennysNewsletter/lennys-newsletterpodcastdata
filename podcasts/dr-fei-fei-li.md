@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=Ctjiatnd6Xk"
 video_id: "Ctjiatnd6Xk"
 description: "Jobs, robots & why world models are next, covering AI product work, product design, and consumer products."
-word_count: 11555
+word_count: 11651
 ---
 
 **Lenny Rachitsky** (00:00:00):

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=GT0jtVjRy2E"
 video_id: "GT0jtVjRy2E"
 description: "How we restructured Airtable’s entire org for AI, covering AI product work, product design, and strategic decision-making."
-word_count: 17980
+word_count: 18139
 ---
 
 **Howie Liu** (00:00:00):

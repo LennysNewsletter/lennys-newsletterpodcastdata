@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=qbvY0dQgSJ4"
 video_id: "qbvY0dQgSJ4"
 description: "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix), covering AI product work, product design, and engineering tradeoffs."
-word_count: 15296
+word_count: 15252
 ---
 
 **Chip Huyen** (00:00:00):

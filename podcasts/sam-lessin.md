@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=KtKJ3A6DWTs"
 video_id: "KtKJ3A6DWTs"
 description: "Silicon Valley’s missing etiquette playbook, covering startup building, product design, and operator lessons."
-word_count: 19233
+word_count: 19398
 ---
 
 **Sam Lessin** (00:00:00):

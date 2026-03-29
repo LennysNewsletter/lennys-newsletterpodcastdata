@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=xeZDHGjG5zM"
 video_id: "xeZDHGjG5zM"
 description: "How to set up and use Codex in VS Code and terminal environments for both simple and complex coding tasks."
-word_count: 17382
+word_count: 17504
 ---
 
 **Lenny Rachitsky** (00:00:00):

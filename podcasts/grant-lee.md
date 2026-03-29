@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=3H0ngGU5pbM"
 video_id: "3H0ngGU5pbM"
 description: "Inside the rise of Gamma, covering strategic decision-making, product design, and growth systems."
-word_count: 24473
+word_count: 24649
 ---
 
 **Grant Lee** (00:00:00):

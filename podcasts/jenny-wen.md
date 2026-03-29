@@ -5,7 +5,7 @@ type: "podcast"
 guest: "Jenny Wen"
 channel: "Lenny's Podcast"
 description: "It's not just designers who are feeling like, \"Oh yeah, we have to keep up with engineers.\" I think even engineers are like, \"How do we keep up with ourselves?\", covering product design, AI product work, and engineering tradeoffs."
-word_count: 15002
+word_count: 15064
 ---
 
 **Jenny Wen** (00:00:00):

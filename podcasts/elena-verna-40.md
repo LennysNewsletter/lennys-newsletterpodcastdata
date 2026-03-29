@@ -5,7 +5,7 @@ type: "podcast"
 guest: "Elena Verna 4.0"
 channel: "Lenny's Podcast"
 description: "Who would've thought that a head of growth, who is traditionally seen as data, metrics, spreadsheets, drive KPIs is like, \"Okay, how do we make this more lovable, covering growth systems, product design, and pricing decisions."
-word_count: 17458
+word_count: 17618
 ---
 
 **Lenny Rachitsky** (00:00:00):

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=2BKmNmnEj9w"
 video_id: "2BKmNmnEj9w"
 description: "Finding hidden growth opportunities in your product, covering growth systems, measurement and analysis, and product design."
-word_count: 17085
+word_count: 17236
 ---
 
 **Albert Cheng** (00:00:00):

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=kLe-zy5r0Mk"
 video_id: "kLe-zy5r0Mk"
 description: "Mental models for building products people love ft. Stewart Butterfield, covering product design, B2B products, and consumer products."
-word_count: 16198
+word_count: 16319
 ---
 
 **Stewart Butterfield** (00:00:00):

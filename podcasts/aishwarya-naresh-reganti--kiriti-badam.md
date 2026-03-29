@@ -5,7 +5,7 @@ type: "podcast"
 guest: "Aishwarya Naresh Reganti + Kiriti Badam"
 channel: "Lenny's Podcast"
 description: "But if you make a bunch of practitioners sit together and ask them, \"Is it important to build an actionable feedback loop for AI products?\" I think all of them will agree, covering AI product work, product design, and team leadership."
-word_count: 16386
+word_count: 16521
 ---
 
 **Lenny Rachitsky** (00:00:00):

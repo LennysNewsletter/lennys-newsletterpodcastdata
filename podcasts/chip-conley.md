@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=R5_ypwiRIyo"
 video_id: "R5_ypwiRIyo"
 description: "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school, covering team leadership, product design, and startup building."
-word_count: 13744
+word_count: 13881
 ---
 
 **Lenny Rachitsky** (00:00:00):

@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=qImgGtnNbx0"
 video_id: "qImgGtnNbx0"
 description: "The future of careers, coding, agents, and more, covering product design, team leadership, and product strategy and execution."
-word_count: 16513
+word_count: 16625
 ---
 
 **Lenny Rachitsky** (00:00:00):

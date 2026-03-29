@@ -5,7 +5,7 @@ type: "podcast"
 guest: "Jeetu Patel"
 channel: "Lenny's Podcast"
 description: "And the reason we pulled this thing together, the goal was, what is happening in the industry and how can we help customers make sure that they can make the most of it, covering AI product work, team leadership, and product design."
-word_count: 16199
+word_count: 16325
 ---
 
 **Jeetu Patel** (00:00:00):

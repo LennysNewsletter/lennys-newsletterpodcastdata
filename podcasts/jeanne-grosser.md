@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=RmnWHz8HD74"
 video_id: "RmnWHz8HD74"
 description: "Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves as COO and oversees marketing, sales, customer success, revenue operations, and field engineering. She transformed Stripe’s early sales organization from the ground up and advises founders on GTM strategy."
-word_count: 14929
+word_count: 15020
 ---
 
 **Lenny Rachitsky** (00:00:00):

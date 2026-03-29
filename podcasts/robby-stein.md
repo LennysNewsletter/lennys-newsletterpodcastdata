@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=kOnsqqVbIeY"
 video_id: "kOnsqqVbIeY"
 description: "Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new AI Overviews, AI Mode, search ranking, Google Lens, and more."
-word_count: 17522
+word_count: 17711
 ---
 
 **Lenny Rachitsky** (00:00:00):

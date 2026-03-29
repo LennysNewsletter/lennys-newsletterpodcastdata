@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=ts9ZvlkeWGs"
 video_id: "ts9ZvlkeWGs"
 description: "The one question that saves product careers, covering team leadership, product design, and product strategy and execution."
-word_count: 17480
+word_count: 17795
 ---
 
 **Matt LeMay** (00:00:00):

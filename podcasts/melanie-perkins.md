@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=-LywX3T5Scc"
 video_id: "-LywX3T5Scc"
 description: "The woman behind Canva shares how she built a $42B company from nothing, covering product design, strategic decision-making, and startup building."
-word_count: 13679
+word_count: 13718
 ---
 
 **Lenny Rachitsky** (00:00:00):

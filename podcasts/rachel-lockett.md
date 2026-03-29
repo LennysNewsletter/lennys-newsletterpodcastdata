@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=1GDVum5IarI"
 video_id: "1GDVum5IarI"
 description: "A guide to difficult conversations, building high-trust teams, and designing a life you love, covering team leadership, product design, and consumer products."
-word_count: 19831
+word_count: 19930
 ---
 
 **Lenny Rachitsky** (00:00:00):

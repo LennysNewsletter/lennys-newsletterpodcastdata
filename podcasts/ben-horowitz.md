@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=KPxTekxQjzc"
 video_id: "KPxTekxQjzc"
 description: "Why founders fail and why you need to run toward fear (a16z co-founder), covering team leadership, product design, and product strategy and execution."
-word_count: 15972
+word_count: 16170
 ---
 
 **Ben Horowitz** (00:00:00):

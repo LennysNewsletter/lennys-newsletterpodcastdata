@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=8xLquwfx6p0"
 video_id: "8xLquwfx6p0"
 description: "Jason’s five-step framework: logo retention, pricing, NRR, marketing channels, target market."
-word_count: 21523
+word_count: 21677
 ---
 
 **Lenny Rachitsky** (00:00:00):

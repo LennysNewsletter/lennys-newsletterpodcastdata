@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=NR85H55eYkM"
 video_id: "NR85H55eYkM"
 description: "Lessons from 400+ companies and 50 unicorns, covering pricing decisions, strategic decision-making, and product design."
-word_count: 19317
+word_count: 19429
 ---
 
 **Madhavan Ramanujam** (00:00:00):

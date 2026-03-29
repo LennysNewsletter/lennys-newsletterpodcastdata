@@ -5,7 +5,7 @@ type: "podcast"
 guest: "Benjamin Mann"
 channel: "Lenny's Podcast"
 description: "Ultimately, people think about this as probably going to hit a wall because if the model isn't good enough to see its own mistakes, then how could it improve, covering AI product work, product design, and engineering tradeoffs."
-word_count: 13064
+word_count: 13119
 ---
 
 **Lenny Rachitsky** (00:00:00):

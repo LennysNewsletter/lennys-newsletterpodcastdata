@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=iT7kq-R3Gjc"
 video_id: "iT7kq-R3Gjc"
 description: "Getting ChatGPT to recommend your product, covering AI product work, product design, and practical product lessons."
-word_count: 14213
+word_count: 14577
 ---
 
 **Lenny Rachitsky** (00:00:00):

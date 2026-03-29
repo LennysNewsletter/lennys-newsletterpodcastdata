@@ -7,7 +7,7 @@ channel: "Lenny's Podcast"
 youtube_url: "https://www.youtube.com/watch?v=7m_xKFqSxTo"
 video_id: "7m_xKFqSxTo"
 description: "How Devin replaces your junior engineers with infinite AI interns that never sleep, covering AI product work, product design, and engineering tradeoffs."
-word_count: 19567
+word_count: 19675
 ---
 
 **Scott Wu** (00:00:00):
