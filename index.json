@@ -1,14 +1,14 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-29T15:04:44.715778+00:00",
+  "generated_at": "2026-03-31T16:25:34.460736+00:00",
   "podcasts": [
     {
       "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
-      "filename": "podcasts/19ebe4cd49f9-claire-vo-openclaw.md",
+      "filename": "podcasts/claire-vo-openclaw.md",
       "word_count": 20081,
       "date": "2026-03-29",
       "description": "How OpenClaw changed my life, covering AI product work, product design, and engineering tradeoffs.",
-      "guest": "19ebe4cd49f9-Claire Vo OpenClaw"
+      "guest": "Claire Vo"
     },
     {
       "title": "The art of influence: The single most important skill that AI can’t replace | Jessica Fain (Webflow, ex-Slack)",

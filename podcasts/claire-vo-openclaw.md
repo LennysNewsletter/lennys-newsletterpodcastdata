@@ -2,7 +2,7 @@
 title: "From skeptic to true believer: How OpenClaw changed my life | Claire Vo"
 date: "2026-03-29"
 type: "podcast"
-guest: "19ebe4cd49f9-Claire Vo OpenClaw"
+guest: "Claire Vo"
 description: "How OpenClaw changed my life, covering AI product work, product design, and engineering tradeoffs."
 word_count: 20081
 ---
