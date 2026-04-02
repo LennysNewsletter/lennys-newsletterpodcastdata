@@ -1,7 +1,15 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-03-31T16:25:34.460736+00:00",
+  "generated_at": "2026-04-02T15:03:45.488605+00:00",
   "podcasts": [
+    {
+      "title": "An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison",
+      "filename": "podcasts/simon-willison.md",
+      "word_count": 21276,
+      "date": "2026-04-02",
+      "description": "We’ve passed the inflection point, dark factories are coming, and automation timelines, covering engineering tradeoffs, AI product work, and product design.",
+      "guest": "Simon Willison"
+    },
     {
       "title": "From skeptic to true believer: How OpenClaw changed my life | Claire Vo",
       "filename": "podcasts/claire-vo-openclaw.md",
@@ -393,14 +401,6 @@
       "date": "2025-07-27",
       "description": "Lessons from 400+ companies and 50 unicorns, covering pricing decisions, strategic decision-making, and product design.",
       "guest": "Madhavan Ramanujam"
-    },
-    {
-      "title": "Benjamin Mann",
-      "filename": "podcasts/benjamin-mann.md",
-      "word_count": 13119,
-      "date": "2025-07-20",
-      "description": "Ultimately, people think about this as probably going to hit a wall because if the model isn't good enough to see its own mistakes, then how could it improve, covering AI product work, product design, and engineering tradeoffs.",
-      "guest": "Benjamin Mann"
     }
   ],
   "newsletters": [
