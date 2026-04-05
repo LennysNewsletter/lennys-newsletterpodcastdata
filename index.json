@@ -1,7 +1,15 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-04-02T15:03:45.488605+00:00",
+  "generated_at": "2026-04-05T16:04:36.218115+00:00",
   "podcasts": [
+    {
+      "title": "Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare",
+      "filename": "podcasts/amol-avasare.md",
+      "word_count": 22125,
+      "date": "2026-04-05",
+      "description": "How Claude became the fastest-growing AI product in history, covering growth systems, AI product work, and team leadership.",
+      "guest": "Amol Avasare"
+    },
     {
       "title": "An AI state of the union: We’ve passed the inflection point, dark factories are coming, and automation timelines | Simon Willison",
       "filename": "podcasts/simon-willison.md",
@@ -393,14 +401,6 @@
       "date": "2025-07-31",
       "description": "The future of careers, coding, agents, and more, covering product design, team leadership, and product strategy and execution.",
       "guest": "Bret Taylor"
-    },
-    {
-      "title": "Pricing your AI product: Lessons from 400+ companies and 50 unicorns | Madhavan Ramanujam",
-      "filename": "podcasts/madhavan-ramanujam.md",
-      "word_count": 19429,
-      "date": "2025-07-27",
-      "description": "Lessons from 400+ companies and 50 unicorns, covering pricing decisions, strategic decision-making, and product design.",
-      "guest": "Madhavan Ramanujam"
     }
   ],
   "newsletters": [
