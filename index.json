@@ -1,7 +1,15 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-04-05T16:04:36.218115+00:00",
+  "generated_at": "2026-04-12T16:03:04.966749+00:00",
   "podcasts": [
+    {
+      "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
+      "filename": "podcasts/keith-rabois.md",
+      "word_count": 15807,
+      "date": "2026-04-12",
+      "description": "Hard truths about building in the AI era, covering career development, product design, and team leadership.",
+      "guest": "Keith Rabois"
+    },
     {
       "title": "Anthropic’s $1B to $19B growth run: how Claude became the fastest-growing AI product in history | Amol Avasare",
       "filename": "podcasts/amol-avasare.md",
@@ -393,14 +401,6 @@
       "date": "2025-08-03",
       "description": "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school, covering team leadership, product design, and startup building.",
       "guest": "Chip Conley"
-    },
-    {
-      "title": "He saved OpenAI, invented the “Like” button, and built Google Maps: Bret Taylor on the future of careers, coding, agents, and more",
-      "filename": "podcasts/bret-taylor.md",
-      "word_count": 16625,
-      "date": "2025-07-31",
-      "description": "The future of careers, coding, agents, and more, covering product design, team leadership, and product strategy and execution.",
-      "guest": "Bret Taylor"
     }
   ],
   "newsletters": [
