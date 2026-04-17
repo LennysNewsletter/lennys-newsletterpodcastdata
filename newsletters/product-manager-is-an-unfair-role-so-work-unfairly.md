@@ -3,6 +3,7 @@ title: "Product manager is an unfair role. So work unfairly."
 subtitle: "How to thrive in “the great flattening” by redefining work norms"
 date: "2024-11-12"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/product-manager-is-an-unfair-role-so-work-unfairly"
 word_count: 4240
 ---
 

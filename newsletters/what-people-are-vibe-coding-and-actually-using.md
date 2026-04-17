@@ -3,6 +3,7 @@ title: "What people are vibe coding (and actually using)"
 subtitle: "50+ useful/fun/clever examples of what non-technical people are building—to inspire your own vibe-coding journey"
 date: "2025-07-08"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/what-people-are-vibe-coding-and-actually-using"
 word_count: 4656
 ---
 

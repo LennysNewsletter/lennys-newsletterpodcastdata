@@ -3,6 +3,7 @@ title: "A guide to AI prototyping for product managers"
 subtitle: "How to turn your idea into a working prototype in minutes"
 date: "2025-01-07"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/a-guide-to-ai-prototyping-for-product-managers"
 word_count: 4449
 ---
 

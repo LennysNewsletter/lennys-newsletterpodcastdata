@@ -3,6 +3,7 @@ title: "How Duolingo reignited user growth"
 subtitle: "The story behind Duolingo's 350% growth acceleration, leaderboards, streaks, notifications, and innovative growth model"
 date: "2023-02-28"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/how-duolingo-reignited-user-growth"
 word_count: 4812
 ---
 

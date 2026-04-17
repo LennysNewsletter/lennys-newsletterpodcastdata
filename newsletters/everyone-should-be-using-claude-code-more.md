@@ -3,6 +3,7 @@ title: "Everyone should be using Claude Code more"
 subtitle: "How to get started, and 50 ways non-technical people are using Claude Code in their work and life"
 date: "2025-10-14"
 type: "newsletter"
+post_url: "https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code-more"
 word_count: 4098
 ---
 
