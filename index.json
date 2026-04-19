@@ -1,7 +1,15 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-04-17T19:50:00.860030+00:00",
+  "generated_at": "2026-04-19T15:04:36.307507+00:00",
   "podcasts": [
+    {
+      "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
+      "filename": "podcasts/nikhyl-singhal-2.md",
+      "word_count": 17206,
+      "date": "2026-04-19",
+      "description": "Why half of product managers are in trouble, covering product design, team leadership, and product strategy and execution.",
+      "guest": "Nikhyl Singhal"
+    },
     {
       "title": "Hard truths about building in the AI era | Keith Rabois (Khosla Ventures)",
       "filename": "podcasts/keith-rabois.md",
@@ -431,15 +439,6 @@
       "description": "The fastest-growing product in history, covering AI product work, product design, and go-to-market execution.",
       "guest": "Nick Turley",
       "youtube_url": "https://www.youtube.com/watch?v=ixY2PvQJ0To"
-    },
-    {
-      "title": "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school | Chip Conley (founder of MEA)",
-      "filename": "podcasts/chip-conley.md",
-      "word_count": 13881,
-      "date": "2025-08-03",
-      "description": "Brian Chesky's secret mentor who died 9 times, started the Burning Man board, and built the world's first midlife wisdom school, covering team leadership, product design, and startup building.",
-      "guest": "Chip Conley",
-      "youtube_url": "https://www.youtube.com/watch?v=R5 ypwiRIyo"
     }
   ],
   "newsletters": [
