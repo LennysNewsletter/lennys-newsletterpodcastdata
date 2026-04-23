@@ -1,7 +1,15 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-04-19T15:04:36.307507+00:00",
+  "generated_at": "2026-04-23T16:05:11.984622+00:00",
   "podcasts": [
+    {
+      "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
+      "filename": "podcasts/cat-wu.md",
+      "word_count": 16271,
+      "date": "2026-04-23",
+      "description": "How Anthropic’s product team moves faster than anyone else, covering team leadership, AI product work, and product design.",
+      "guest": "Cat Wu"
+    },
     {
       "title": "Why half of product managers are in trouble | Nikhyl Singhal (Meta, Google)",
       "filename": "podcasts/nikhyl-singhal-2.md",
@@ -430,15 +438,6 @@
       "description": "The one question that saves product careers, covering team leadership, product design, and product strategy and execution.",
       "guest": "Matt LeMay",
       "youtube_url": "https://www.youtube.com/watch?v=ts9ZvlkeWGs"
-    },
-    {
-      "title": "Inside ChatGPT: The fastest-growing product in history | Nick Turley (Head of ChatGPT at OpenAI)",
-      "filename": "podcasts/nick-turley.md",
-      "word_count": 19233,
-      "date": "2025-08-09",
-      "description": "The fastest-growing product in history, covering AI product work, product design, and go-to-market execution.",
-      "guest": "Nick Turley",
-      "youtube_url": "https://www.youtube.com/watch?v=ixY2PvQJ0To"
     }
   ],
   "newsletters": [
