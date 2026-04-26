@@ -1,7 +1,15 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-04-23T16:05:11.984622+00:00",
+  "generated_at": "2026-04-26T23:04:28.197784+00:00",
   "podcasts": [
+    {
+      "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
+      "filename": "podcasts/evan-spiegel.md",
+      "word_count": 14177,
+      "date": "2026-04-26",
+      "description": "Why distribution has become the most important moat, covering consumer products, product design, and strategic decision-making.",
+      "guest": "Evan Spiegel"
+    },
     {
       "title": "How Anthropic’s product team moves faster than anyone else | Cat Wu (Head of Product, Claude Code)",
       "filename": "podcasts/cat-wu.md",
@@ -429,15 +437,6 @@
       "description": "How Intercom rose from the ashes by betting everything on AI, covering AI product work, pricing decisions, and product design.",
       "guest": "Eoghan McCabe",
       "youtube_url": "https://www.youtube.com/watch?v=0 opWSfmN8M"
-    },
-    {
-      "title": "The one question that saves product careers | Matt LeMay",
-      "filename": "podcasts/matt-lemay.md",
-      "word_count": 17795,
-      "date": "2025-08-14",
-      "description": "The one question that saves product careers, covering team leadership, product design, and product strategy and execution.",
-      "guest": "Matt LeMay",
-      "youtube_url": "https://www.youtube.com/watch?v=ts9ZvlkeWGs"
     }
   ],
   "newsletters": [
