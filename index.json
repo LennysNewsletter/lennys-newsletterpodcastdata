@@ -1,6 +1,6 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-04-27T21:57:52.835822+00:00",
+  "generated_at": "2026-04-27T23:03:16.881289+00:00",
   "podcasts": [
     {
       "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
@@ -443,18 +443,18 @@
     {
       "title": "How to build your PM second brain with ChatGPT",
       "filename": "newsletters/how-to-build-your-pm-second-brain-with-chatgpt.md",
-      "word_count": 3358,
+      "word_count": 3662,
       "date": "2025-12-16",
       "subtitle": "Use AI to amplify your craft, not replace it",
-      "post_url": "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt"
+      "post_url": "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain"
     },
     {
       "title": "Everyone should be using Claude Code more",
       "filename": "newsletters/everyone-should-be-using-claude-code-more.md",
-      "word_count": 4098,
+      "word_count": 4514,
       "date": "2025-10-14",
       "subtitle": "How to get started, and 50 ways non-technical people are using Claude Code in their work and life",
-      "post_url": "https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code-more"
+      "post_url": "https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code"
     },
     {
       "title": "Essential reading for product builders—part 1",

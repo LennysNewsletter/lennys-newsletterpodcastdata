@@ -3,8 +3,8 @@ title: "How to build your PM second brain with ChatGPT"
 subtitle: "Use AI to amplify your craft, not replace it"
 date: "2025-12-16"
 type: "newsletter"
-post_url: "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain-with-chatgpt"
-word_count: 3358
+post_url: "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain"
+word_count: 3662
 ---
 
 *👋 Hey there, I’m Lenny. Each week, I tackle reader questions about building product, driving growth, and accelerating your career. For more: **[Lennybot](https://www.lennybot.com/) | [Lenny’s Podcast](https://www.lennysnewsletter.com/podcast) |** **[How I AI](https://www.youtube.com/@howiaipodcast)** **| [Lenny’s Reads](https://www.lennysnewsletter.com/s/lennys-reads)** | **[AI/PM courses](https://maven.com/lenny) | [Public speaking course](https://ultraspeaking.com/lennyslist?via=lenny)***
@@ -15,7 +15,7 @@ Someone smarter than me once said, **“AI won’t replace you, but a person usi
 
 *For more, follow Amir on [LinkedIn](https://www.linkedin.com/in/amir-klein-9b8444189/). You can also listen to this post in convenient podcast form on [Spotify](https://open.spotify.com/show/0IIunA06qMtrcQLfypTooj) / [Apple](https://podcasts.apple.com/us/podcast/lennys-reads/id1810314693) / [YouTube](https://www.youtube.com/@lennysreads).*
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/c33617f9-bda1-49fb-ad65-965d4cd30017_1456x970.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!8BEU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc33617f9-bda1-49fb-ad65-965d4cd30017_1456x970.png)
 
 The first month in my new role at monday.com, I was tasked with building our first AI agent. The goal was to create an AI co-pilot, something users could turn to for insights, explanations, or building complex workflows they wouldn’t know how to create on their own. To build that, I needed a ton of context—all the internal knowledge, decisions, assumptions, and scattered inputs that shape any product direction. And gathering all of that felt completely overwhelming.
 
@@ -31,7 +31,7 @@ My good friend Tal taught us [how to think with AI](https://www.lennysnewsletter
 
 No matter *what* we’re doing, we’re constantly trying to hold way too much information in our heads. I always imagine it like carrying a giant basket filled with random things like eggs, water bottles, watermelons, toy cars, a cactus (I hope you’re picturing a Dr. Seuss scene). And I’m on the go, so things are rocking all around the basket, and more things keep being added, and then an egg falls and cracks, one of the water bottles starts to spill over, a toy car keeps banging into one of the watermelons . . . basically anxiety in a metaphor.
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/5bcfe94d-b894-40b4-b540-f3d151ec6934_1452x1021.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!X_Ry!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bcfe94d-b894-40b4-b540-f3d151ec6934_1452x1021.png)
 
 That’s what it feels like trying to hold all the context required to do product work. But the hardest part isn’t just *carrying* it; it’s that none of these pieces arrive neatly fitted together. Context comes in fragments: user feedback, metrics, market changes, internal constraints, past decisions, intuition. As PMs, our job is to assemble those pieces into a clear picture—shaping the problem, forming the hypothesis, and defining the solution space.
 
@@ -41,7 +41,7 @@ That’s where AI comes in. When you feed in all of that context that you’ve b
 
 It’s important to say: using a second brain doesn’t dull your role but actually sharpens it. Your reasoning, product sense, knowledge, and taste are still doing the real work; AI just amplifies them. You can’t outsource judgment or creativity. This isn’t AI thinking instead of you—it’s you thinking with more clarity because all the mental overhead is gone. You still make every decision; the second brain just clears the path from your insight to the output.
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/9c40ace8-e4df-4d0b-bd26-d88744f0404e_1456x970.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!t2cz!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c40ace8-e4df-4d0b-bd26-d88744f0404e_1456x970.png)
 
 #### **Step 1: Create its personality**
 
@@ -51,13 +51,13 @@ At monday.com, I had all of this information (my ever-growing basket) that I was
 
 If you’re trying this yourself, Projects live in ChatGPT’s left sidebar under “New project.”
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/0e557423-fe2a-4492-adc3-0cb032bec4a3_1456x815.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!NMvh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0e557423-fe2a-4492-adc3-0cb032bec4a3_1456x815.png)
 
 *(I’ll share how to do the same thing in Claude and Gemini later on.)*
 
 Once you’re inside, if you approach Projects like a second brain that you’re growing, you want to first make sure it thinks in the way you think. In other words, you need to build its personality. Each Project has an instructions section where you can first define this “personality” in plain language.
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/1ddada6e-be58-48ce-a679-be0826af983a_1456x648.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!oGLF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1ddada6e-be58-48ce-a679-be0826af983a_1456x648.png)
 
 A really awesome way of doing this is with the help of ChatGPT (of course). Open a new chat and describe what you want. For example:
 
@@ -65,17 +65,17 @@ A really awesome way of doing this is with the help of ChatGPT (of course). Open
 
 It’ll output instructions for what you want:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/23039a59-4ae2-4571-bfdf-5e1ea9bbffa3_1456x725.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!WUbl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F23039a59-4ae2-4571-bfdf-5e1ea9bbffa3_1456x725.png)
 
 Tweak what you want or just copy the whole thing as is into the instructions page, and your second brain is now eagerly waiting for you to feed it information!
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/79a93831-a93b-4a7d-8f4e-537ca24b0d2a_1456x685.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!ChON!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79a93831-a93b-4a7d-8f4e-537ca24b0d2a_1456x685.png)
 
 #### **Step 2: Feed it information**
 
 Now comes the fun and legitimately relieving part: feeding it all that context that you are barely holding onto. Go to “Add files” and just dump it in.
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/a2b9e072-f56b-4419-aa5e-db1e205ac768_1456x592.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!9GJR!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa2b9e072-f56b-4419-aa5e-db1e205ac768_1456x592.png)
 
 I think the biggest “whoa” moment for me is realizing that *everything* is essentially text. The classics, like PRDs and docs, are a given, but decks, websites, Excel/CSV sheets, dashboards, and Slack channels all contain text too. They just need to be exported into PDFs and then you can upload them into the files section too.
 
@@ -91,7 +91,7 @@ In the case of the first initiative I led at monday.com, I started with a few de
 
 This is what my Project ended up containing after hundreds of threads:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/14317a45-0720-4493-be0f-4443c227e688_800x444.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!ccA_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14317a45-0720-4493-be0f-4443c227e688_800x444.png)
 
 #### **Step 3: Let it cook**
 
@@ -105,7 +105,7 @@ I needed to create a sign-up form for users to get early access to the agent we 
 
 My sign-up form looked like this:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/026eb721-00ac-4ab7-8220-306932bffc91_800x542.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!9UeV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F026eb721-00ac-4ab7-8220-306932bffc91_800x542.png)
 
 **2. Prototypes**
 
@@ -121,11 +121,11 @@ The Project uses those images as a reference, the entire context it has from its
 
 Here’s an example of a Lovable prototype that I was able to create literally within seconds, thanks to all the context my second brain held:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/b8b9b2eb-b964-447b-88b3-501a2f6cc9aa_800x835.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!mn3h!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8b9b2eb-b964-447b-88b3-501a2f6cc9aa_800x835.png)
 
 And this is what we ended up shipping:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/9d4ac194-d2bc-4d5f-a0d0-7e5a934e32da_800x784.gif)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!TTci!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9d4ac194-d2bc-4d5f-a0d0-7e5a934e32da_800x784.gif)
 
 It’s not just a “wow” moment—it’s a workflow. A prototype like this lets me gather my designer and engineer, show them the idea, and get feedback *before* anyone has to build. This workflow fits so natively into what I’m doing, and truly increases my productivity and the productivity of the whole team so tremendously, that it’s become one of my favorite things to do.
 
@@ -142,7 +142,7 @@ None of these tasks are hard because of the writing itself. They’re hard becau
 
 Once you get into the habit of constantly adding more files to your second brain and opening more threads, you’ll become comfortable with your tailor-made companion by your side. Next, you’ll wonder how you did anything without it. Your second brain becomes such a powerful tool that sometimes you can even forget you aren’t speaking to a human being. You might end up having a moment like this:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/cdf76adf-ccf2-4e05-90cb-1a9d42b4ffb3_1456x380.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!JVe1!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdf76adf-ccf2-4e05-90cb-1a9d42b4ffb3_1456x380.png)
 
 Creepy? Maybe. But also comforting.
 
@@ -164,27 +164,27 @@ Everything I described above works beautifully with ChatGPT Projects, but the pr
 
 In Gemini it’s called Gems, conveniently found on the left-hand panel:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/6ecf35e3-2652-4917-a5ef-0b341df33cb1_1456x826.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!3Rsk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ecf35e3-2652-4917-a5ef-0b341df33cb1_1456x826.png)
 
 When you open a new Gem, you put in the custom instructions:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/66fb4557-9965-4024-8d61-0c01064208a4_1456x826.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!EFHJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F66fb4557-9965-4024-8d61-0c01064208a4_1456x826.png)
 
 In Claude it’s called Projects, also found on the left-hand panel:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/2a23f8c3-ca66-451e-9161-6ee366f07b46_1456x764.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!87Z5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2a23f8c3-ca66-451e-9161-6ee366f07b46_1456x764.png)
 
 Click on “New project”:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/a943348e-6559-4ab6-85af-6d27fade6985_1456x301.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!1VZH!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa943348e-6559-4ab6-85af-6d27fade6985_1456x301.png)
 
 Once in, name it and give it a description for future use:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/70e2a43d-3b41-42f8-8564-bad80f3c5dc4_1456x764.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!uKRu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70e2a43d-3b41-42f8-8564-bad80f3c5dc4_1456x764.png)
 
 Like the other AIs, provide it with custom instructions from the right-hand Instructions component:
 
-![Image from How to build your PM second brain with ChatGPT](https://substack-post-media.s3.amazonaws.com/public/images/29ab58cb-26cb-4195-86f4-d19f0f382583_1456x764.png)
+![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!h511!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29ab58cb-26cb-4195-86f4-d19f0f382583_1456x764.png)
 
 PM away!
 

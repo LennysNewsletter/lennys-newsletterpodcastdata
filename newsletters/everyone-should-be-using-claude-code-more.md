@@ -3,15 +3,15 @@ title: "Everyone should be using Claude Code more"
 subtitle: "How to get started, and 50 ways non-technical people are using Claude Code in their work and life"
 date: "2025-10-14"
 type: "newsletter"
-post_url: "https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code-more"
-word_count: 4098
+post_url: "https://www.lennysnewsletter.com/p/everyone-should-be-using-claude-code"
+word_count: 4514
 ---
 
 *👋 Hey there, I’m Lenny. Each week, I tackle reader questions about building product, driving growth, and accelerating your career. For more: **[Lennybot](https://www.lennybot.com/) | [Lenny’s Podcast](https://www.lennysnewsletter.com/podcast) |** **[How I AI](https://www.youtube.com/@howiaipodcast)** **| [Lenny’s Reads](https://www.lennysnewsletter.com/s/lennys-reads)** | **[Favorite AI and PM courses](https://maven.com/lenny) | [Favorite public speaking course](https://ultraspeaking.com/lennyslist?via=lenny)***
 
 *Subscribers get **19 premium products for free for one year**: [Lovable, Replit, Gamma, n8n, Bolt, Devin, Wispr Flow, Descript, Linear, PostHog, Superhuman, Granola, Warp, Perplexity, Raycast, Magic Patterns, Mobbin, ChatPRD + Stripe Atlas](https://www.lennysnewsletter.com/p/productpass) ([terms apply](https://www.lennysnewsletter.com/i/168890236/important-offer-details-read-before-subscribing)). **[Subscribe now](https://www.lennysnewsletter.com/subscribe?).***
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/6b68fd37-43ed-49a8-889d-7f49e6102eb0_1456x970.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!ByeN!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b68fd37-43ed-49a8-889d-7f49e6102eb0_1456x970.png)
 
 Ever since [my chat with Dan Shipper](https://youtu.be/crMrVozp_h8?si=Kx_XeBfEM2pPJ1Ib&t=429), I couldn’t stop thinking about his hot take that [Claude Code](https://www.claude.com/product/claude-code) was the most underrated AI tool for non-technical people. A few weeks ago, I finally started playing around with it, and holy sh\*t, we’ve all been sleeping on Claude Code.
 
@@ -43,31 +43,31 @@ If you run into any trouble, just ask your favorite chatbot for help. Or better 
 
 Prompt: “*How can I clear some storage on my computer?*” I then discuss my options.
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/12f869f9-6519-4870-be16-dffe585eb475_1600x690.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!CLRk!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12f869f9-6519-4870-be16-dffe585eb475_1600x690.png)
 
 #### 2. Improving the image quality of screenshots
 
 Prompt: “*Improve the image quality of [filename]*”. I used this many times for the screenshots below.
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/dc76e64e-df51-4461-83e8-1bbd89b0b67c_1962x1598.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!HOGa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdc76e64e-df51-4461-83e8-1bbd89b0b67c_1962x1598.png)
 
 #### 3. Downloading YouTube videos
 
 Prompt: “*Download this YouTube video: [URL]*”. Then I ignored all the warnings 🤫
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/b4166da8-693b-432f-a509-284e4848e9de_2132x1260.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!XS5F!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb4166da8-693b-432f-a509-284e4848e9de_2132x1260.png)
 
 #### 4. Downloading all of the images embedded inside a Google Doc
 
 Prompt: “*Download all of the images in high-res from this Google Doc: [URL]”.* This paired well with item #2.
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/2aee1f08-2f50-4ae9-b6db-0a1dec2e7a38_2394x1066.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!OsG5!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2aee1f08-2f50-4ae9-b6db-0a1dec2e7a38_2394x1066.png)
 
 #### 5. Picking a random raffle winner from a Google Sheet of submissions
 
 Prompt: “*Pick a random row from this Google Sheet to select a winner for a giveaway.*” I used this for a recent Sora 2 giveaway in our subscriber Slack community.
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/6acf2721-9fb9-424b-9737-8ccc235e42c0_2170x770.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!2J_A!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6acf2721-9fb9-424b-9737-8ccc235e42c0_2170x770.png)
 
 # **50 creative ways non-technical people are using Claude Code**
 
@@ -81,19 +81,19 @@ Out of the over 500 ideas you shared with me on [X](https://x.com/lennysan/statu
 
 > “I literally just typed: look at what I’m building and identify the top 5 companies in my area that would be good for a pilot for this. Then I go to LinkedIn and message them. If it’s not clear, I do this in the source directory of the code of my app so the first thing it does is figure out what it is that I’m building.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/01eff5de-1cb0-4601-897e-6c1b931a1ee6_2560x1704.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!VaJx!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01eff5de-1cb0-4601-897e-6c1b931a1ee6_2560x1704.png)
 
 ### **3. Same as above, but instead, scraping GitHub repos, from [Sergei Zotov](https://www.linkedin.com/in/szotov/)**
 
 > “My product masks sensitive data in code assistant queries. So Claude Code proposed the idea to find potential leads in the GitHub repos, by searching for the actual sensitive values in them (and whether in the repo we see some evidence of using coding agents). This was actually genius—not only does it filter out a lot of companies, but it also provides instant value to the lead. Here’s what it came up with: repos list, priority score, even LinkedIn URL.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/5be22cc6-7cd7-4366-9e8d-cc237e8542f4_1280x428.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!OoPr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5be22cc6-7cd7-4366-9e8d-cc237e8542f4_1280x428.png)
 
 ### **4. Noticing when you’re avoiding conflict, from [Dan Shipper](https://x.com/danshipper)**
 
 > “I download all of my meeting recordings, put them in a folder, and ask Claude Code to tell me all of the times I’ve subtly avoided conflict.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/489eaeb3-c920-472e-9f0b-6745759e4867_1484x1853.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!B8y3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F489eaeb3-c920-472e-9f0b-6745759e4867_1484x1853.png)
 
 *Pro tip: Use [Granola](https://www.granola.ai/) ([first year free](https://www.lennysnewsletter.com/p/productpass)!), and ask Claude Code how to download your meeting notes into a folder.*
 
@@ -105,13 +105,13 @@ Out of the over 500 ideas you shared with me on [X](https://x.com/lennysan/statu
 >
 > It is usually faster and more user-friendly than running all the commands and trying to extract the right numbers myself. It can explain what the analyses mean and why they matter, and suggests fixes with the actual commands while assessing the risk of running each of them.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/a522d04f-f7a7-4e50-8032-a8bcc8ec5392_1904x2082.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!H97L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa522d04f-f7a7-4e50-8032-a8bcc8ec5392_1904x2082.png)
 
 ### **6. Cleaning up messy invoice files, from [Martin Merschroth](https://www.linkedin.com/in/martin-merschroth/)**
 
 > “I use Claude Code to sort my invoices for taxes. It reads each file in a messy folder, renames it to ‘YYYY-MM-DD Vendor - Invoice - ProductOrService.pdf’, and moves it into the right folder.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/48d52c72-a709-4b94-beb4-c70abebdbada_739x645.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!eSnW!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48d52c72-a709-4b94-beb4-c70abebdbada_739x645.png)
 
 ### **7. Organizing files and folders across your computer, from [Justin Dielmann](https://www.linkedin.com/in/justindielmann/)**
 
@@ -124,17 +124,17 @@ Out of the over 500 ideas you shared with me on [X](https://x.com/lennysan/statu
 >
 > It’s like having a thoughtful assistant who actually understands context and can make smart decisions about file organization. Game changer for reducing mental clutter.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/a0c4a412-51f2-48c5-8295-dc0624f5ad59_1136x1242.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!run6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa0c4a412-51f2-48c5-8295-dc0624f5ad59_1136x1242.png)
 
 ### **8. Building a slide for your child, from [John Conneely](https://www.linkedin.com/in/johnbconneely/)**
 
 > “I built my own DIY subagent last week to help me build a slide tower for my son 😀”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/cc626b43-9eef-4145-a899-7c88d0c2a28c_1116x1566.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!N_qc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc626b43-9eef-4145-a899-7c88d0c2a28c_1116x1566.png)
 
 The finished product:
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/79b18afd-e4d7-4c8a-bf9d-260a2f5d2ac7_1280x720.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!HpYh!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79b18afd-e4d7-4c8a-bf9d-260a2f5d2ac7_1280x720.png)
 
 ### **9. Organizing scattered thoughts, from [Helen Lee Kupp](https://www.linkedin.com/in/helenleekupp/)**
 
@@ -148,7 +148,7 @@ The finished product:
 > → Created LinkedIn versions automatically (this post is one of them!)
 > → Everything saved and ready to publish (including grabbing a screenshot of the template repository that I’m adding here!)” [[Here’s the repo](https://github.com/WomenDefiningAI/claudecode-writer)]
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/d39ecb30-620e-4df9-bba6-7dd9d2e47990_1724x1500.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!buG4!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd39ecb30-620e-4df9-bba6-7dd9d2e47990_1724x1500.png)
 
 ### **10. Writing a job description, from [Justin Bleuel](https://x.com/JustinBleuel)**
 
@@ -156,49 +156,49 @@ The finished product:
 >
 > I made a folder with internal Notions of our hiring material for PMs, added similar role JDs from other companies, then in planning mode asked to generate the same collateral for this new role.”
 
-![Image](https://substack-post-media.s3.amazonaws.com/public/images/9392251d-0b64-45e5-9d46-05fa1c7ed491_1513x893.jpeg)
+![Image](https://substackcdn.com/image/fetch/$s_!F1DX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9392251d-0b64-45e5-9d46-05fa1c7ed491_1513x893.jpeg)
 
 ### **11. Synthesizing transcripts of calls with customers, from [Derek DeHart](https://www.linkedin.com/in/derekdehart/)**
 
 > “My current Claude Code jam is synthesizing transcripts of calls with customers to compile evidence that supports or invalidates a running tally of assumptions/requirements/hypotheses/whatever. Given MCPs to interact with other tools in our productivity stack—Fireflies, Linear, Notion, etc.—it’s become my hub for ongoing product research and development.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/14db451f-0dad-4236-b0da-efcef7ee88dd_1280x720.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!pdKp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14db451f-0dad-4236-b0da-efcef7ee88dd_1280x720.png)
 
 ### **12. Improving your writing, from [Teresa Torres](https://www.linkedin.com/in/teresatorres/)**
 
 > “I now write all of my content with Claude Code in VS Code. We iterate on an outline, it helps me improve the hook, it conducts research for me and adds citations to my outline, and it reviews and gives feedback on each section as I write. It has completely changed the way I write.” [[Much more on Teresa’s process here](https://www.producttalk.org/21-ways-to-use-ai-at-work/)]
 
-![Screenshot of a writing workspace with three panels: a markdown article draft on the left, a list of AI use cases in the middle, and grammar and style feedback on the right.](https://substack-post-media.s3.amazonaws.com/public/images/07200b8d-a92d-473e-bb43-3743d22e5985_2000x752.png)
+![Screenshot of a writing workspace with three panels: a markdown article draft on the left, a list of AI use cases in the middle, and grammar and style feedback on the right.](https://substackcdn.com/image/fetch/$s_!WwRa!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F07200b8d-a92d-473e-bb43-3743d22e5985_2000x752.png)
 
 ### **13. Working with audio files, from [Dan Heller](https://www.linkedin.com/in/thedanheller/)**
 
 > “I’m working with multiple audio files. I use Claude Code to manipulate them, convert the sample rates, rename them, and translate them from Portuguese to English.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/bab43e55-862f-48af-9428-ec49136af776_1280x739.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!pp1E!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab43e55-862f-48af-9428-ec49136af776_1280x739.png)
 
 ### **14. Creating “self-driving” documentation, from [James Pember](https://www.linkedin.com/in/jamespember/)**
 
 > “The most interesting use case we’re playing with is something I call ‘self-driving documentation.’ Basically, how can we give an Agent the responsibility of figuring out how/where our documentation can be better and more comprehensive. We’ve been experimenting with using Claude Code together with [Playwright](https://playwright.dev/) to automatically explore our software independently, identify knowledge gaps in our documentation, and then create those changes itself. Very promising!” [[More here](https://jamespember.substack.com/p/self-documenting-software)]
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/2001bcaa-90d7-48a0-84d7-79f21dbf01e8_2560x1706.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!WMdJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2001bcaa-90d7-48a0-84d7-79f21dbf01e8_2560x1706.png)
 
 ### **15. Creating a self-improving feedback loop, from** **[Gang Rui](https://www.linkedin.com/in/limgangrui/)**
 
 > “I created a slash command that analyzes my journal entries + Git commits (for the past 7 days; usually I use this weekly), spots gaps between what I said vs. did, and suggests system improvements. Like having a COO that learns from my patterns.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/61b9353c-e8a1-4c17-90a7-64fcb3e09112_1432x1774.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!_kDg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F61b9353c-e8a1-4c17-90a7-64fcb3e09112_1432x1774.png)
 
 ### **16. Getting inspiration from competitors’ ads, from [Sumant Subrahmanya](https://www.linkedin.com/in/sumantus/)**
 
 > “Extract ads from competitors to find the problem, use case, or copy/asset that’s working for them, and then repurpose it for my ads. Claude Code built out these scripts that would screen-grab all ads running on the ad library, and it’s super cool to watch it navigate to the browser and grab all screenshots in an almost ‘agentic’ way.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/2cb3d9d0-51d6-4c6b-9d59-654b87d25b97_1280x1385.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!-tKK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2cb3d9d0-51d6-4c6b-9d59-654b87d25b97_1280x1385.png)
 
 ### **17. Automatically creating changelogs, from [Manik Aggarwal](https://www.linkedin.com/in/aggarwalmanik/)**
 
 > “I use Claude Code to create user-facing changelogs. I ask Claude Code to scan all commits from a specific time period, then pull in my changelog guidelines. It drafts a clean, structured changelog that usually needs few quick edits. What earlier took me hours is now down to 10–15 minutes. Most of our changelog output is created with Claude Code, with a final polish done by me.”
 
-![Image from Everyone should be using Claude Code more](https://substack-post-media.s3.amazonaws.com/public/images/7e0b5a53-032a-4b0a-9737-d37cd4797527_2560x1596.png)
+![Image from Everyone should be using Claude Code more](https://substackcdn.com/image/fetch/$s_!ku4_!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7e0b5a53-032a-4b0a-9737-d37cd4797527_2560x1596.png)
 
 ### **18. Building presentations, from [Hank Yeomans](https://x.com/HankYeomans)**
 
@@ -212,7 +212,7 @@ The finished product:
 >
 > When I want to put these into PPT, I just do well-thought-out screenshots. But honestly, If I’m using these for a customer or some presentation, I just open a browser and I have ‘previous’ and ‘next’ buttons built into them so that I can click through. Claude Code creates these as interactive html ‘slides’ so they react to the mouse.”
 
-![Image](https://substack-post-media.s3.amazonaws.com/public/images/29355a05-9769-415a-b7ab-0257fbd13b6a_680x423.jpeg)
+![Image](https://substackcdn.com/image/fetch/$s_!kJ8Q!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29355a05-9769-415a-b7ab-0257fbd13b6a_680x423.jpeg)
 
 ### **19. Doing social media research, from [Danny Shmueli](https://x.com/dannyshmueli)**
 
@@ -226,7 +226,7 @@ The finished product:
 >
 > Each knows exact keywords and communities to monitor.”
 
-![Image](https://substack-post-media.s3.amazonaws.com/public/images/12966ce4-1aee-4754-8cc6-6fbdcafe7fbf_408x418.png)
+![Image](https://substackcdn.com/image/fetch/$s_!cO7R!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F12966ce4-1aee-4754-8cc6-6fbdcafe7fbf_408x418.png)
 
 ### **20. Roadmapping, from [Abhi Chandwani](https://x.com/abhi_chandwani)**
 
@@ -238,7 +238,7 @@ The finished product:
 >
 > > https://CLAUDE.md has paths to my engineering repos for architectural review, tradeoffs, and decisions. Broad structure below, and [here’s my prompt](https://x.com/abhi_chandwani/status/1960434310759993555).”
 
-![A directory structure displayed in a file explorer. Folders named latent-product, bugs, execution, press-release, product-flywheel, user-research, and vision are visible. A file named CLAUDE.md is highlighted with a star icon next to it.](https://substack-post-media.s3.amazonaws.com/public/images/e23707e1-deef-44ca-a883-6933312a4068_678x370.png)
+![A directory structure displayed in a file explorer. Folders named latent-product, bugs, execution, press-release, product-flywheel, user-research, and vision are visible. A file named CLAUDE.md is highlighted with a star icon next to it.](https://substackcdn.com/image/fetch/$s_!4E15!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe23707e1-deef-44ca-a883-6933312a4068_678x370.png)
 
 ### **And all kinds of stuff:**
 
