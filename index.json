@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-05-10T00:05:26.415781+00:00",
+  "generated_at": "2026-05-10T16:05:25.342542+00:00",
   "podcasts": [
+    {
+      "title": "How to build a company that withstands any era | Eric Ries, Lean Startup author",
+      "filename": "podcasts/eric-ries-2.md",
+      "word_count": 20428,
+      "date": "2026-05-10",
+      "description": "Building a company that withstands any era, covering product design, startup building, and AI product work.",
+      "guest": "Eric Ries, Lean Startup author",
+      "post_url": "https://www.lennysnewsletter.com/p/how-to-build-a-company-that-withstands"
+    },
     {
       "title": "Snapchat CEO: Why distribution has become the most important moat | Evan Spiegel",
       "filename": "podcasts/evan-spiegel.md",
@@ -428,15 +437,6 @@
       "description": "Inside the expert network training every frontier AI model, covering AI product work, product design, and team leadership.",
       "guest": "Garrett Lord",
       "youtube_url": "https://www.youtube.com/watch?v=0qdR-XwHJ9o"
-    },
-    {
-      "title": "How Intercom rose from the ashes by betting everything on AI | Eoghan McCabe (founder and CEO)",
-      "filename": "podcasts/eoghan-mccabe.md",
-      "word_count": 13654,
-      "date": "2025-08-21",
-      "description": "How Intercom rose from the ashes by betting everything on AI, covering AI product work, pricing decisions, and product design.",
-      "guest": "Eoghan McCabe",
-      "youtube_url": "https://www.youtube.com/watch?v=0 opWSfmN8M"
     }
   ],
   "newsletters": [
