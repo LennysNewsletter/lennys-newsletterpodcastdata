@@ -4,7 +4,7 @@ subtitle: "Use AI to amplify your craft, not replace it"
 date: "2025-12-16"
 type: "newsletter"
 post_url: "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain"
-word_count: 3662
+word_count: 3628
 ---
 
 *👋 Hey there, I’m Lenny. Each week, I tackle reader questions about building product, driving growth, and accelerating your career. For more: **[Lennybot](https://www.lennybot.com/) | [Lenny’s Podcast](https://www.lennysnewsletter.com/podcast) |** **[How I AI](https://www.youtube.com/@howiaipodcast)** **| [Lenny’s Reads](https://www.lennysnewsletter.com/s/lennys-reads)** | **[AI/PM courses](https://maven.com/lenny) | [Public speaking course](https://ultraspeaking.com/lennyslist?via=lenny)***
@@ -13,7 +13,7 @@ word_count: 3662
 
 Someone smarter than me once said, **“AI won’t replace you, but a person using AI better than you might.”** I believe this is exactly right. Right now, we all need to be building the skills that help us become that person using AI better. Lucky for us, Amir Klein is already that person and has written a guide for the rest of us. Though it’s targeted at product managers, the advice and workflows can be implemented by anyone in any function. Thank you, Amir, for giving us a glimpse into the future and the concrete steps to get there.
 
-*For more, follow Amir on [LinkedIn](https://www.linkedin.com/in/amir-klein-9b8444189/). You can also listen to this post in convenient podcast form on [Spotify](https://open.spotify.com/show/0IIunA06qMtrcQLfypTooj) / [Apple](https://podcasts.apple.com/us/podcast/lennys-reads/id1810314693) / [YouTube](https://www.youtube.com/@lennysreads).*
+*For more, follow Amir on [LinkedIn](https://www.linkedin.com/in/amir-klein-9b8444189/).*
 
 ![Image from How to build your PM second brain with ChatGPT](https://substackcdn.com/image/fetch/$s_!8BEU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc33617f9-bda1-49fb-ad65-965d4cd30017_1456x970.png)
 
