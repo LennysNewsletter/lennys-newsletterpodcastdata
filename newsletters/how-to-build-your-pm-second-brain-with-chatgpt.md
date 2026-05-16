@@ -4,10 +4,10 @@ subtitle: "Use AI to amplify your craft, not replace it"
 date: "2025-12-16"
 type: "newsletter"
 post_url: "https://www.lennysnewsletter.com/p/how-to-build-your-pm-second-brain"
-word_count: 3628
+word_count: 3620
 ---
 
-*👋 Hey there, I’m Lenny. Each week, I tackle reader questions about building product, driving growth, and accelerating your career. For more: **[Lennybot](https://www.lennybot.com/) | [Lenny’s Podcast](https://www.lennysnewsletter.com/podcast) |** **[How I AI](https://www.youtube.com/@howiaipodcast)** **| [Lenny’s Reads](https://www.lennysnewsletter.com/s/lennys-reads)** | **[AI/PM courses](https://maven.com/lenny) | [Public speaking course](https://ultraspeaking.com/lennyslist?via=lenny)***
+*👋 Hey there, I’m Lenny. Each week, I tackle reader questions about building product, driving growth, and accelerating your career. For more: **[Lennybot](https://www.lennybot.com/) | [Lenny’s Podcast](https://www.lennysnewsletter.com/podcast) |** **[How I AI](https://www.youtube.com/@howiaipodcast)** **| [AI/PM courses](https://maven.com/lenny) | [Public speaking course](https://ultraspeaking.com/lennyslist?via=lenny)***
 
 *Annual subscribers get **19 premium products for free for one year**: [Lovable, Replit, Gamma, n8n, Bolt, Devin, Wispr Flow, Descript, Linear, PostHog, Superhuman, Granola, Warp, Perplexity, Raycast, Magic Patterns, Mobbin, ChatPRD + Stripe Atlas](https://www.lennysnewsletter.com/p/productpass) (while supplies last). **[Subscribe now](https://www.lennysnewsletter.com/subscribe?).***
 
