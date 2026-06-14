@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-06-10T00:05:32.923277+00:00",
+  "generated_at": "2026-06-14T14:04:17.132266+00:00",
   "podcasts": [
+    {
+      "title": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
+      "filename": "podcasts/mark-pincus.md",
+      "word_count": 16095,
+      "date": "2026-06-14",
+      "description": "The hidden pattern behind successful products, covering product design, consumer products, and startup building.",
+      "guest": "Mark Pincus",
+      "post_url": "https://www.lennysnewsletter.com/p/the-common-pattern-behind-successful"
+    },
     {
       "title": "Father of the iPod and iPhone on building taste, judgment, and creativity in the AI era | Tony Fadell",
       "filename": "podcasts/tony-fadell.md",
@@ -428,15 +437,6 @@
       "description": "Getting ChatGPT to recommend your product, covering AI product work, product design, and practical product lessons.",
       "guest": "Ethan Smith",
       "youtube_url": "https://www.youtube.com/watch?v=iT7kq-R3Gjc"
-    },
-    {
-      "title": "$46B of hard truths from Ben Horowitz: Why founders fail and why you need to run toward fear (a16z co-founder)",
-      "filename": "podcasts/ben-horowitz.md",
-      "word_count": 16170,
-      "date": "2025-09-11",
-      "description": "Why founders fail and why you need to run toward fear (a16z co-founder), covering team leadership, product design, and product strategy and execution.",
-      "guest": "Ben Horowitz",
-      "youtube_url": "https://www.youtube.com/watch?v=KPxTekxQjzc"
     }
   ],
   "newsletters": [
