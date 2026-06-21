@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-06-17T00:04:17.927266+00:00",
+  "generated_at": "2026-06-21T14:01:07.402786+00:00",
   "podcasts": [
+    {
+      "title": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
+      "filename": "podcasts/fiona-fung.md",
+      "word_count": 19294,
+      "date": "2026-06-21",
+      "description": "Building the most AI-pilled engineering team in the world, covering engineering tradeoffs, team leadership, and AI product work.",
+      "guest": "Fiona Fung",
+      "post_url": "https://www.lennysnewsletter.com/p/building-the-most-ai-pilled-engineering"
+    },
     {
       "title": "The hidden pattern behind successful products | Mark Pincus (Founder of Zynga)",
       "filename": "podcasts/mark-pincus.md",
@@ -428,15 +437,6 @@
       "description": "Why experts writing AI evals is creating the fastest-growing companies in history, covering AI product work, product design, and strategic decision-making.",
       "guest": "Brendan Foody",
       "youtube_url": "https://www.youtube.com/watch?v=ja6fWTDPQl4"
-    },
-    {
-      "title": "The ultimate guide to AEO: How to get ChatGPT to recommend your product | Ethan Smith (Graphite)",
-      "filename": "podcasts/ethan-smith.md",
-      "word_count": 14577,
-      "date": "2025-09-14",
-      "description": "Getting ChatGPT to recommend your product, covering AI product work, product design, and practical product lessons.",
-      "guest": "Ethan Smith",
-      "youtube_url": "https://www.youtube.com/watch?v=iT7kq-R3Gjc"
     }
   ],
   "newsletters": [
