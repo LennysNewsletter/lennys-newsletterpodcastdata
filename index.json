@@ -1,7 +1,70 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-06-24T00:05:07.954554+00:00",
+  "generated_at": "2026-08-10T03:05:34.857635+00:00",
   "podcasts": [
+    {
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "filename": "podcasts/adam-ward.md",
+      "word_count": 16673,
+      "date": "2026-08-09",
+      "description": "The playbook for building high talent density teams, covering product design, team leadership, and growth systems.",
+      "guest": "Adam Ward, Head of Talent at Cursor",
+      "post_url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent"
+    },
+    {
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "filename": "podcasts/tom-verrilli.md",
+      "word_count": 17740,
+      "date": "2026-08-02",
+      "description": "This CPO regrets that product management exists, covering product design, product strategy and execution, and team leadership.",
+      "guest": "Tom Verrilli",
+      "post_url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management"
+    },
+    {
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "filename": "podcasts/dianne-penn.md",
+      "word_count": 15298,
+      "date": "2026-07-26",
+      "description": "Token maxing, the jagged edge, and living in the future, covering AI product work, engineering tradeoffs, and team leadership.",
+      "guest": "Dianne Penn",
+      "post_url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on"
+    },
+    {
+      "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+      "filename": "podcasts/elizabeth-stone-2.md",
+      "word_count": 13081,
+      "date": "2026-07-19",
+      "description": "AI and the future of product and tech roles, covering product design, engineering tradeoffs, and AI product work.",
+      "guest": "Elizabeth Stone",
+      "post_url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future"
+    },
+    {
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "filename": "podcasts/noam-segal.md",
+      "word_count": 15457,
+      "date": "2026-07-12",
+      "description": "How tech workers actually feel about AI in 2026, covering AI product work, career development, and product design.",
+      "guest": "Annual AI sentiment survey",
+      "post_url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about"
+    },
+    {
+      "title": "Adam Mosseri: AI is a tailwind for authenticity",
+      "filename": "podcasts/adam-mosseri.md",
+      "word_count": 12640,
+      "date": "2026-07-09",
+      "description": "AI is a tailwind for authenticity, covering product design, AI product work, and team leadership.",
+      "guest": "Adam Mosseri",
+      "post_url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for"
+    },
+    {
+      "title": "OpenAI Codex lead on the new shape of product work | Andrew Ambrosino",
+      "filename": "podcasts/andrew-ambrosino.md",
+      "word_count": 13903,
+      "date": "2026-06-28",
+      "description": "The new shape of product work, covering product design, engineering tradeoffs, and AI product work.",
+      "guest": "Andrew Ambrosino",
+      "post_url": "https://www.lennysnewsletter.com/p/openai-codex-lead-on-the-new-shape"
+    },
     {
       "title": "Building the most AI-pilled engineering team in the world | Fiona Fung (Manager of the Claude Code and Cowork Teams)",
       "filename": "podcasts/fiona-fung.md",
@@ -374,69 +437,6 @@
       "description": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix), covering AI product work, product design, and engineering tradeoffs.",
       "guest": "Chip Huyen",
       "youtube_url": "https://www.youtube.com/watch?v=qbvY0dQgSJ4"
-    },
-    {
-      "title": "How to measure AI developer productivity in 2025 | Nicole Forsgren",
-      "filename": "podcasts/nicole-forsgren.md",
-      "word_count": 14201,
-      "date": "2025-10-19",
-      "description": "Nicole Forsgren created the most widely used frameworks for measuring developer productivity—DORA and SPACE. She wrote the foundational book Accelerate and is about to release her newest book, Frictionless , a practical guide for helping teams move faster in the AI era.",
-      "guest": "Nicole Forsgren",
-      "youtube_url": "https://www.youtube.com/watch?v=SWcDfPVTizQ"
-    },
-    {
-      "title": "Inside Google's AI turnaround: The rise of AI Mode, strategy behind AI Overviews, and their vision for AI-powered search | Robby Stein (VP of Product, Google Search)",
-      "filename": "podcasts/robby-stein.md",
-      "word_count": 17711,
-      "date": "2025-10-10",
-      "description": "Robby Stein is VP of Product at Google, where he oversees the core products of Google Search—including the new AI Overviews, AI Mode, search ranking, Google Lens, and more.",
-      "guest": "Robby Stein",
-      "youtube_url": "https://www.youtube.com/watch?v=kOnsqqVbIeY"
-    },
-    {
-      "title": "First interview with Scale AI’s CEO: $14B Meta deal, what’s working in enterprise AI, and what frontier labs are building next | Jason Droege",
-      "filename": "podcasts/jason-droege.md",
-      "word_count": 16442,
-      "date": "2025-10-09",
-      "description": "Jason Droege is the CEO of Scale AI, a company that provides foundational training data to every major AI lab. He previously co-founded Scour with Travis Kalanick and built Uber Eats from idea to $20 billion in revenue.",
-      "guest": "Jason Droege",
-      "youtube_url": "https://www.youtube.com/watch?v=W99jdYZOlN0"
-    },
-    {
-      "title": "How to find hidden growth opportunities in your product | Albert Cheng (Duolingo, Grammarly, Chess.com)",
-      "filename": "podcasts/albert-cheng.md",
-      "word_count": 17236,
-      "date": "2025-10-05",
-      "description": "Finding hidden growth opportunities in your product, covering growth systems, measurement and analysis, and product design.",
-      "guest": "Albert Cheng",
-      "youtube_url": "https://www.youtube.com/watch?v=2BKmNmnEj9w"
-    },
-    {
-      "title": "The secret to better AI prototypes: Why Tinder’s CPO starts with JSON, not design | Ravi Mehta (product advisor, previously EIR at Reforge)",
-      "filename": "podcasts/ravi-mehta.md",
-      "word_count": 16757,
-      "date": "2025-09-29",
-      "description": "Why Tinder’s CPO starts with JSON, not design, covering team leadership, startup building, and product design.",
-      "guest": "Ravi Mehta",
-      "youtube_url": "https://www.youtube.com/watch?v= yQMGHHl49g"
-    },
-    {
-      "title": "Why AI evals are the hottest new skill for product builders | Hamel Husain & Shreya Shankar (creators of the #1 eval course)",
-      "filename": "podcasts/hamel-husain--shreya-shankar.md",
-      "word_count": 19671,
-      "date": "2025-09-25",
-      "description": "Why AI evals are the hottest new skill for product builders, covering AI product work, product design, and measurement and analysis.",
-      "guest": "Hamel Husain & Shreya Shankar",
-      "youtube_url": "https://www.youtube.com/watch?v=BsWxPI9UM4c"
-    },
-    {
-      "title": "Why experts writing AI evals is creating the fastest-growing companies in history | Brendan Foody (CEO of Mercor)",
-      "filename": "podcasts/brendan-foody.md",
-      "word_count": 12143,
-      "date": "2025-09-18",
-      "description": "Why experts writing AI evals is creating the fastest-growing companies in history, covering AI product work, product design, and strategic decision-making.",
-      "guest": "Brendan Foody",
-      "youtube_url": "https://www.youtube.com/watch?v=ja6fWTDPQl4"
     }
   ],
   "newsletters": [
