@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-08-10T03:05:34.857635+00:00",
+  "generated_at": "2026-08-19T16:02:23.885379+00:00",
   "podcasts": [
+    {
+      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+      "filename": "podcasts/ian-silber.md",
+      "word_count": 11768,
+      "date": "2026-08-16",
+      "description": "This is the best time in history to be a designer, covering product design, AI product work, and engineering tradeoffs.",
+      "guest": "Ian Silber",
+      "post_url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the"
+    },
     {
       "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
       "filename": "podcasts/adam-ward.md",
@@ -428,15 +437,6 @@
       "description": "Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies in the world.",
       "guest": "Dhanji R. Prasanna",
       "youtube_url": "https://www.youtube.com/watch?v=JMeXWVw0r3E"
-    },
-    {
-      "title": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix)",
-      "filename": "podcasts/chip-huyen.md",
-      "word_count": 15252,
-      "date": "2025-10-23",
-      "description": "Al Engineering 101 with Chip Huyen (Nvidia, Stanford, Netflix), covering AI product work, product design, and engineering tradeoffs.",
-      "guest": "Chip Huyen",
-      "youtube_url": "https://www.youtube.com/watch?v=qbvY0dQgSJ4"
     }
   ],
   "newsletters": [
