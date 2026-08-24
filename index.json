@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-08-22T16:04:35.428673+00:00",
+  "generated_at": "2026-08-24T16:02:43.281733+00:00",
   "podcasts": [
+    {
+      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+      "filename": "podcasts/jen-abel-3.md",
+      "word_count": 16621,
+      "date": "2026-08-23",
+      "description": "Close $100K+ enterprise deals, step by step, covering B2B products, team leadership, and startup building.",
+      "guest": "Jen Abel",
+      "post_url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by"
+    },
     {
       "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
       "filename": "podcasts/ian-silber.md",
@@ -428,15 +437,6 @@
       "description": "The woman behind Canva shares how she built a $42B company from nothing, covering product design, strategic decision-making, and startup building.",
       "guest": "Melanie Perkins",
       "youtube_url": "https://www.youtube.com/watch?v=-LywX3T5Scc"
-    },
-    {
-      "title": "How Block is becoming the most AI-native enterprise in the world | Dhanji R. Prasanna",
-      "filename": "podcasts/dhanji-r-prasanna.md",
-      "word_count": 15018,
-      "date": "2025-10-26",
-      "description": "Dhanji R. Prasanna is the chief technology officer at Block (formerly Square), where he’s managed more than 4,000 engineers over the past two years. Under his leadership, Block has become one of the most AI-native large companies in the world.",
-      "guest": "Dhanji R. Prasanna",
-      "youtube_url": "https://www.youtube.com/watch?v=JMeXWVw0r3E"
     }
   ],
   "newsletters": [
