@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-08-26T16:22:25.711828+00:00",
+  "generated_at": "2026-08-30T16:04:44.652287+00:00",
   "podcasts": [
+    {
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+      "filename": "podcasts/tara-seshan.md",
+      "word_count": 15820,
+      "date": "2026-08-30",
+      "description": "The rise of persistent AI coworkers, covering strategic decision-making, product design, and AI product work.",
+      "guest": "Tara Seshan",
+      "post_url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent"
+    },
     {
       "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
       "filename": "podcasts/jen-abel-3.md",
@@ -428,15 +437,6 @@
       "description": "Jen Abel is GM of Enterprise at State Affairs and co-founded Jellyfish, a consultancy that helps founders learn zero-to-one enterprise sales. She’s one of the smartest people I’ve ever met on learning enterprise sales, and in this follow-up to our first chat two years ago (covering the zero to $1 million ARR.",
       "guest": "Jen Abel",
       "youtube_url": "https://www.youtube.com/watch?v=37fKFWdrMyA"
-    },
-    {
-      "title": "The woman behind Canva shares how she built a $42B company from nothing | Melanie Perkins",
-      "filename": "podcasts/melanie-perkins.md",
-      "word_count": 13718,
-      "date": "2025-11-02",
-      "description": "The woman behind Canva shares how she built a $42B company from nothing, covering product design, strategic decision-making, and startup building.",
-      "guest": "Melanie Perkins",
-      "youtube_url": "https://www.youtube.com/watch?v=-LywX3T5Scc"
     }
   ],
   "newsletters": [
