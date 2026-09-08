@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-09-06T16:04:12.467320+00:00",
+  "generated_at": "2026-09-08T16:05:38.033940+00:00",
   "podcasts": [
+    {
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+      "filename": "podcasts/roman-ugarte.md",
+      "word_count": 15333,
+      "date": "2026-09-08",
+      "description": "How we built Grok Bot in a month, covering product design, AI product work, and team leadership.",
+      "guest": "Roman Ugarte",
+      "post_url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month"
+    },
     {
       "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
       "filename": "podcasts/anish-acharya-2.md",
@@ -428,15 +437,6 @@
       "description": "Jobs, robots & why world models are next, covering AI product work, product design, and consumer products.",
       "guest": "Dr. Fei Fei Li",
       "youtube_url": "https://www.youtube.com/watch?v=Ctjiatnd6Xk"
-    },
-    {
-      "title": "“Dumbest idea I’ve heard” to $100M ARR: Inside the rise of Gamma | Grant Lee (CEO)",
-      "filename": "podcasts/grant-lee.md",
-      "word_count": 24649,
-      "date": "2025-11-13",
-      "description": "Inside the rise of Gamma, covering strategic decision-making, product design, and growth systems.",
-      "guest": "Grant Lee",
-      "youtube_url": "https://www.youtube.com/watch?v=3H0ngGU5pbM"
     }
   ],
   "newsletters": [
