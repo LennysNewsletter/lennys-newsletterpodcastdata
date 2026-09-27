@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-09-23T16:05:36.072431+00:00",
+  "generated_at": "2026-09-27T16:04:23.651453+00:00",
   "podcasts": [
+    {
+      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+      "filename": "podcasts/molly-graham-2.md",
+      "word_count": 18220,
+      "date": "2026-09-27",
+      "description": "The grief, loneliness, and burnout sweeping through the tech industry right now, covering team leadership, AI product work, and product design.",
+      "guest": "Molly Graham",
+      "post_url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout"
+    },
     {
       "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
       "filename": "podcasts/peter-sellis.md",
@@ -428,15 +437,6 @@
       "description": "A guide to difficult conversations, building high-trust teams, and designing a life you love, covering team leadership, product design, and consumer products.",
       "guest": "Rachel Lockett",
       "youtube_url": "https://www.youtube.com/watch?v=1GDVum5IarI"
-    },
-    {
-      "title": "Slack founder: Mental models for building products people love ft. Stewart Butterfield",
-      "filename": "podcasts/stewart-butterfield.md",
-      "word_count": 16319,
-      "date": "2025-11-20",
-      "description": "Mental models for building products people love ft. Stewart Butterfield, covering product design, B2B products, and consumer products.",
-      "guest": "Stewart Butterfield",
-      "youtube_url": "https://www.youtube.com/watch?v=kLe-zy5r0Mk"
     }
   ],
   "newsletters": [
