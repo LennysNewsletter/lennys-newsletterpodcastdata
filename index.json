@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-10-07T16:05:13.621216+00:00",
+  "generated_at": "2026-10-11T16:03:40.868770+00:00",
   "podcasts": [
+    {
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "filename": "podcasts/josh-woodward.md",
+      "word_count": 12097,
+      "date": "2026-10-11",
+      "description": "Why every company now needs to think and operate like a lab team, covering product design, team leadership, and startup building.",
+      "guest": "Josh Woodward",
+      "post_url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think"
+    },
     {
       "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
       "filename": "podcasts/molly-graham-2.md",
@@ -428,15 +437,6 @@
       "description": "Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves as COO and oversees marketing, sales, customer success, revenue operations, and field engineering. She transformed Stripe’s early sales organization from the ground up and advises founders on GTM strategy.",
       "guest": "Jeanne Grosser",
       "youtube_url": "https://www.youtube.com/watch?v=RmnWHz8HD74"
-    },
-    {
-      "title": "A guide to difficult conversations, building high-trust teams, and designing a life you love | Rachel Lockett",
-      "filename": "podcasts/rachel-lockett.md",
-      "word_count": 19930,
-      "date": "2025-11-23",
-      "description": "A guide to difficult conversations, building high-trust teams, and designing a life you love, covering team leadership, product design, and consumer products.",
-      "guest": "Rachel Lockett",
-      "youtube_url": "https://www.youtube.com/watch?v=1GDVum5IarI"
     }
   ],
   "newsletters": [
