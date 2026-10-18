@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-10-11T16:03:40.868770+00:00",
+  "generated_at": "2026-10-18T16:03:59.375684+00:00",
   "podcasts": [
+    {
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "filename": "podcasts/emmanuel-ameisen.md",
+      "word_count": 13517,
+      "date": "2026-10-18",
+      "description": "How AI models actually think, covering AI product work, engineering tradeoffs, and product design.",
+      "guest": "Emmanuel Ameisen",
+      "post_url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on"
+    },
     {
       "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
       "filename": "podcasts/josh-woodward.md",
@@ -428,15 +437,6 @@
       "description": "Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work.",
       "guest": "Tomer Cohen",
       "youtube_url": "https://www.youtube.com/watch?v=R-zCfLQD 84"
-    },
-    {
-      "title": "What world-class GTM looks like in 2026 | Jeanne DeWitt Grosser (Vercel, Stripe, Google)",
-      "filename": "podcasts/jeanne-grosser.md",
-      "word_count": 15020,
-      "date": "2025-11-30",
-      "description": "Jeanne DeWitt Grosser built world-class GTM teams at Stripe, Google, and, most recently, Vercel, where she serves as COO and oversees marketing, sales, customer success, revenue operations, and field engineering. She transformed Stripe’s early sales organization from the ground up and advises founders on GTM strategy.",
-      "guest": "Jeanne Grosser",
-      "youtube_url": "https://www.youtube.com/watch?v=RmnWHz8HD74"
     }
   ],
   "newsletters": [
