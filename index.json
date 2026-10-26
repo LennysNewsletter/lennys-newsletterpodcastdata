@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-10-21T17:04:08.305273+00:00",
+  "generated_at": "2026-10-26T18:28:47.717308+00:00",
   "podcasts": [
+    {
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "filename": "podcasts/rob-snyder.md",
+      "word_count": 17130,
+      "date": "2026-10-25",
+      "description": "Finding PMF, covering startup building, product design, and AI product work.",
+      "guest": "Rob Snyder",
+      "post_url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf"
+    },
     {
       "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
       "filename": "podcasts/emmanuel-ameisen.md",
@@ -428,15 +437,6 @@
       "description": "Edwin Chen is the founder and CEO of Surge AI, the company that teaches AI what’s good and bad, powering frontier labs with elite data, environments, and evaluations. Surge surpassed $1 billion in revenue with under 100 employees last year, completely bootstrapped—the fastest company in history to reach this milestone.",
       "guest": "Edwin Chen",
       "youtube_url": "https://www.youtube.com/watch?v=dduQeaqmpnI"
-    },
-    {
-      "title": "Why LinkedIn is turning PMs into AI-powered \"full stack builders” | Tomer Cohen (LinkedIn CPO)",
-      "filename": "podcasts/tomer-cohen.md",
-      "word_count": 13149,
-      "date": "2025-12-04",
-      "description": "Why LinkedIn is turning PMs into AI-powered \"full stack builders”, covering product design, team leadership, and AI product work.",
-      "guest": "Tomer Cohen",
-      "youtube_url": "https://www.youtube.com/watch?v=R-zCfLQD 84"
     }
   ],
   "newsletters": [
