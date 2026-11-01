@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-11-01T17:03:16.120460+00:00",
+  "generated_at": "2026-11-01T17:04:45.371098+00:00",
   "podcasts": [
+    {
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "filename": "podcasts/hector-serrano.md",
+      "word_count": 20331,
+      "date": "2026-11-01",
+      "description": "How a 19-year-old intern built the growth engine behind this $2B AI company, covering consumer products, growth systems, and B2B products.",
+      "guest": "Hector Serrano",
+      "post_url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the"
+    },
     {
       "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
       "filename": "podcasts/rob-snyder.md",
@@ -428,15 +437,6 @@
       "date": "2025-12-18",
       "description": "Who would've thought that a head of growth, who is traditionally seen as data, metrics, spreadsheets, drive KPIs is like, \"Okay, how do we make this more lovable, covering growth systems, product design, and pricing decisions.",
       "guest": "Elena Verna 4.0"
-    },
-    {
-      "title": "The 100-person AI lab that became Anthropic and Google's secret weapon | Edwin Chen (Surge AI)",
-      "filename": "podcasts/edwin-chen.md",
-      "word_count": 14500,
-      "date": "2025-12-07",
-      "description": "Edwin Chen is the founder and CEO of Surge AI, the company that teaches AI what’s good and bad, powering frontier labs with elite data, environments, and evaluations. Surge surpassed $1 billion in revenue with under 100 employees last year, completely bootstrapped—the fastest company in history to reach this milestone.",
-      "guest": "Edwin Chen",
-      "youtube_url": "https://www.youtube.com/watch?v=dduQeaqmpnI"
     }
   ],
   "newsletters": [
