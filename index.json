@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-11-04T17:01:33.353268+00:00",
+  "generated_at": "2026-11-09T17:04:06.189765+00:00",
   "podcasts": [
+    {
+      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "filename": "podcasts/tulsee-doshi.md",
+      "word_count": 12329,
+      "date": "2026-11-08",
+      "description": "Why PMs are suddenly valuable again, covering AI product work, product design, and go-to-market execution.",
+      "guest": "Tulsee Doshi",
+      "post_url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier"
+    },
     {
       "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
       "filename": "podcasts/hector-serrano.md",
@@ -429,14 +438,6 @@
       "description": "Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion.",
       "guest": "Matt MacInnis",
       "youtube_url": "https://www.youtube.com/watch?v=O W76LR77Vw"
-    },
-    {
-      "title": "Elena Verna 4.0",
-      "filename": "podcasts/elena-verna-40.md",
-      "word_count": 17618,
-      "date": "2025-12-18",
-      "description": "Who would've thought that a head of growth, who is traditionally seen as data, metrics, spreadsheets, drive KPIs is like, \"Okay, how do we make this more lovable, covering growth systems, product design, and pricing decisions.",
-      "guest": "Elena Verna 4.0"
     }
   ],
   "newsletters": [
