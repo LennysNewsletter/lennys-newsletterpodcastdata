@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-11-11T17:01:59.107336+00:00",
+  "generated_at": "2026-11-15T17:02:45.393030+00:00",
   "podcasts": [
+    {
+      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "filename": "podcasts/mona-sarantakos-v2.md",
+      "word_count": 16698,
+      "date": "2026-11-15",
+      "description": "How we launched the most successful consumer product this year, covering AI product work, product design, and go-to-market execution.",
+      "guest": "Mona Sarantakos",
+      "post_url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most"
+    },
     {
       "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
       "filename": "podcasts/tulsee-doshi.md",
@@ -429,15 +438,6 @@
       "description": "We replaced our sales team with 20 AI agents—here’s what happened, covering B2B products, startup building, and team leadership.",
       "guest": "Jason M Lemkin",
       "youtube_url": "https://www.youtube.com/watch?v=I-R1bc1rlFs"
-    },
-    {
-      "title": "10 contrarian leadership truths every leader needs to hear | Matt MacInnis (Rippling)",
-      "filename": "podcasts/matt-macinnis.md",
-      "word_count": 18479,
-      "date": "2025-12-28",
-      "description": "Matt MacInnis is the chief product officer and former longtime COO at Rippling, a unified workforce management platform valued at over $16 billion.",
-      "guest": "Matt MacInnis",
-      "youtube_url": "https://www.youtube.com/watch?v=O W76LR77Vw"
     }
   ],
   "newsletters": [
